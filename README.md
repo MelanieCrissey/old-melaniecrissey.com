@@ -11,7 +11,7 @@
 		middleman build
 		git add --all
 		git commit -m "your commit comment"
-		git push hero master
+		git push heroku master
 
 ## Create New Article
 
