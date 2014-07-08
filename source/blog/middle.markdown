@@ -24,7 +24,7 @@ I also improved some things:
 * Gave my *About* page a makeover.
 * Added a favicon. <i class="fa fa-rebel"></i>
 
-Thus far the trickiest thing about using Middleman has been figuring out how to push to Heroku (more on that later).
+Thus far the trickiest thing about using Middleman was figuring out how to deploy to Heroku (more on that later).
 
 Phew! It felt good to get that off my chest. Here's to brighter, better blogging. 
 

@@ -24,18 +24,18 @@
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
         <![endif]-->
-
+        <%= current_page.url %>
         <div id="header">
           <a href="/"><h1>Melanie Crissey</h1></a>
           <nav class="nav" role="navigation">
             <ul>
-             <li>
+              <li class="<%= is_page_active('/about/') %>">
                 <%= link_to 'About', '/about' %> 
               </li>
-              <li>
+              <li class="<%= is_page_active('/blog/') %>">
                 <%= link_to 'Blog', '/blog' %> 
               </li>
-              <li>
+              <li class="<%= is_page_active('/work/') %>">
                 <%= link_to 'Work', '/work' %>
               </li>
             </ul>

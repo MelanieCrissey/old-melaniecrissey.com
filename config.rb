@@ -42,11 +42,11 @@ configure :development do
 end
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def is_page_active(page)
+    current_page.url == page ? "selected" : ''
+  end
+end
 
 # ---------------------------
 # Assets
