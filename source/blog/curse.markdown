@@ -16,7 +16,7 @@ I have notoriously deplorable language habits.
 
 Lately I’ve been working to clean up my act, but my husband still battles my propensity for profanity when we’re together in public.
 
->“Hey - I know you’re reclaiming that word, but could you pipe down? We’re in _a neighborhood_.”
+<p style="font-family: source-serif-pro, serif; font-weight: bold; border: 3px solid #333; padding: 10px;">“Hey - I know you’re reclaiming that word, but could you pipe down? We’re in <i>a neighborhood</i>.”</p>
 
 <img src="/img/901521_1323859812861_full.jpg"/>
 
