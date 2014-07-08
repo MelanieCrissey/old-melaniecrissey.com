@@ -16,7 +16,7 @@ And, by _researched_ I mean that I asked [Alan Crissey](https://twitter.com/alan
 
 When I installed Middleman, I broke a few things:
 
-* Without [NavLynx](https://gist.github.com/greypants/3279194), my navigation no longer highlighted the current page. I had to use a differemt helper.  
+* Without [NavLynx](https://gist.github.com/greypants/3279194), my navigation no longer highlighted the current page. I had to use a different helper.  
 * Embedded content won't display because markdown doesn't support iframes.
 
 I also improved some things:
