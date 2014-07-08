@@ -1,4 +1,6 @@
-# This file is used by Rack-based servers to start the application.
+# ---------------------------
+# Live Server
+# ---------------------------
 
 require 'rack'
 require 'rack/contrib/try_static'
@@ -7,7 +9,7 @@ require 'rack/contrib/try_static'
 use Rack::TryStatic,
   root: 'build',
   urls: %w[/],
-  try: ['.html', 'index.html', '/index.html']
+  try: ['.html', 'index.html', '/index.html', '/']
 
 run lambda{ |env|
   four_oh_four_page = File.expand_path("../build/404/index.html", __FILE__)
