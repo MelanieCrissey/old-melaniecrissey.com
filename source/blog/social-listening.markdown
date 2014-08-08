@@ -30,7 +30,7 @@ In the past few weeks I’ve been to five professional, educational networking e
 
 With messages about women in technology and business ranging from inspiring to ironic and everything in between, it’s easy to feel conflicted or confused. Earlier this week I lamented:
 
-<img src="/img/humanity"/>
+<img src="/img/humanity.png" />
 
 Here’s what I know:
 
