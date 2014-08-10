@@ -18,7 +18,7 @@ Number 7 is **Avoid chores**. Check. Check. My sunroom needs to be mopped and th
 
 Number 10 is **Cultural activities**. Does Instagramming a [plum-avocado salad](http://food52.com/recipes/6130-plum-avocado-summer-salad) count? Check.
 
-Here's an idea for a new list article: The One Thing Successful People Do Every Day
+Here's a new list article entitled *The One Thing Successful People Do Every Day*:
 
  1. Whatever they darn well please.
 
