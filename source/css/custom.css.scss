@@ -41,7 +41,6 @@
 a {
 	text-decoration: none;
 	color: #086CA2;
-	font-weight:bold;
 
 }
 a:visited {
@@ -60,7 +59,11 @@ article {
 	position: relative;
 }
 
-article li {
+article ul li, article ol li {
+	font-family: 'Avenir', sans-serif;
+}
+
+article ul li {
 	list-style-type: disc;
 }
 
