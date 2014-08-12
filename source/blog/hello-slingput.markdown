@@ -4,7 +4,7 @@ date: 2014-08-12 9:00 UTC
 tags:
 ---
 
-My closest friends know that I'm the worst at keeping secrets. I've been quietly working on something new, and I'm delighted to tell you more about it today.
+My closest friends know that I'm the worst at keeping secrets. I've been quietly working on something new with a talent crew of folks, and I'm delighted to tell you more about it today.
 
 Y'all, meet [Slingput](http://www.slingput.com/).
 
