@@ -14,7 +14,7 @@ My reaction: “Whoa. If women only feel confident when they’re practically pe
 
 <p>Tavi’s caption: “This is why I start every morning with M.I.A <img class="emoji" alt="gold start" src="/img/gold-star.png"/></p>
 
-![bad girls](img/bad-girls.jpg) 
+![bad girls](/img/bad-girls.jpg) 
 
 (Excuse me while I add all the M.I.A. songs to my _[Do Work](http://open.spotify.com/user/1216657104/playlist/3gB0VbAyNg02B62tLw8pyE)_ playlist.)
 
