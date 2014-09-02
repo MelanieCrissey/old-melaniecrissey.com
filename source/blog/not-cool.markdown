@@ -10,9 +10,7 @@ One of the young women walking with me spoke up:
 
 > Nuh-uh. Not cool. That was mean. 
 
-I felt ill. She was right. It was mean, and it wasn't funny.
-
-This young woman had already earned my respect. She was kind and patient colleague with an exemplary work ethic. In that moment my respect for her grew two-fold.
+I felt ill. She was right. It was mean, and it wasn't funny. In that moment my respect for that young woman grew two-fold.
 
 When we find ourselves in a conversation that's taking a turn for the worse, we make a choice: to acquiesce, to ignore the offense, or [to call it like we see it](http://www.reactiongifs.com/wp-content/uploads/2012/12/not-funny.gif).
 
