@@ -94,7 +94,7 @@ article h1 {
 	text-align: left;
 }
 
-article h2 {
+h2, article h2 {
 	color: #333;
 	font-family:"source-serif-pro", serif;
 	font-size: 30px;
@@ -237,6 +237,11 @@ hr {
 .fa {
 	font-size: 28px;
 	padding: 8px;
+	color: #034569;
+}
+
+.fa:hover {
+	color: #086CA2;
 }
 
 .fa-rebel {
