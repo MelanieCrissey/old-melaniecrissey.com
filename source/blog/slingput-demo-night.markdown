@@ -62,7 +62,7 @@ Jennifer Clinehens <br> [@jenclinehens](https://twitter.com/jenclinehens)
 
 Michael Tavani <br> [@tavani](https://twitter.com/tavani)
 
-I'm grateful that I had a chance to work with these talented folks for a month. I can't wait to see what we built next.
+I'm grateful that I had a chance to work with these talented people for a month. I can't wait to see what we built next.
 
 ### Put your idea out there
 
