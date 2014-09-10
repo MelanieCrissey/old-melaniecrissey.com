@@ -4,7 +4,7 @@ date: 2014-09-10 20:12 UTC
 tags:
 ---
 
-Today fellow Villager and all-around wonder woman Lindsay Trinkle -- if you haven't met her yet, you should check out her blog [here](http://lindsaytrinkle.com/) -- tweeted about a new product she discovered:
+Today fellow Villager and all-around wonder woman Lindsay Trinkle -- if you haven't met her yet, you should check out her blog [here](http://lindsaytrinkle.com/) -- tweets about a new product she discovered:
 
 ![springsled](/img/springsled.png)
 <sub>original tweet <a href="https://twitter.com/lindsaytrinkle/status/509771851816370176">here</a></sub>
@@ -41,4 +41,6 @@ If you're going to use an email referral landing page because you want to grow e
 
 In the end, [Cliff Seal](https://twitter.com/cliffseal/status/509798731588567040) hit the nail on the head. The best way to incentivize social sharing is simple and honest: build something awesome that people want to tell their friends about.
 
+--
 
+I'm still curious to learn more about Springsled and I hope I'll love their product. We'll see how it goes tomorrow when they send me a login to their product. :)
