@@ -11,7 +11,7 @@ Today fellow Villager and all-around wonder woman Lindsay Trinkle -- if you have
 
 I respect Lindsay's taste and opinions, especially when it comes to promising applications for productivity. I click that referral link to check out [Springsled](http://springsled.com/) for myself. 
 
-A slick, bare-boned landing page explains that Springsled is a simple, visual, easy-to-use product management tool. There are 3 mocked-up images on the page to help me imagine what SpringSled might look like if it exists. There are two form fields with green buttons encouraging me to enter my email address to “Get Early Access.” 
+A slick, bare-boned landing page explains that Springsled is a simple, visual, easy-to-use project management tool. There are 3 mocked-up images on the page to help me imagine what SpringSled might look like if it exists. There are two form fields with green buttons encouraging me to enter my email address to “Get Early Access.” 
 
 From the images I gather that Springsled is probably similar to [Trello](https://trello.com/). I love Trello and I'd be interested in trying something similar, so I submit my email address as collateral for early access. 
 
