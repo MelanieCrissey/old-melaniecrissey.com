@@ -43,4 +43,4 @@ In the end, [Cliff Seal](https://twitter.com/cliffseal/status/509798731588567040
 
 --
 
-I'm still curious to learn more about Springsled and I hope I'll love their product. We'll see how it goes tomorrow when they send me a login to their product. :)
+I'm still curious to learn more about Springsled and I hope I'll love their product. We'll see how it goes tomorrow if they send me a link to login.
