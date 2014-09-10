@@ -19,11 +19,11 @@ And that's when things get weird.
 
 ![weird](/img/weird.png)
 
-**Springsled wants me to use my social equity to promote their product to my friends before I've seen or used the tool.**
+**Springsled wants me to use my social equity to promote their product before I've seen or used the tool.**
 
-At this point a handy link on the bottom of Springsled's page catches my attention. It reads “Powered by [Untorch](http://untorch.com/).” Untorch's landing page looks exactly like the Springsled landing page, except their page reads “Get sign ups” and “The world's easiest referral program.”
+A handy link on the bottom of Springsled's page catches my attention. It reads “Powered by [Untorch](http://untorch.com/).” Funny thing - Untorch's landing page looks exactly like the Springsled landing page, except their page reads “Get sign ups” and “The world's easiest referral program.”
 
-I think the whole thing seemed less than Kosher, so [I sub-tweet about it](https://twitter.com/MelanieCrissey/status/509773152826966016) and go back to business. My phone blows up. Lively Twitter debate ensues. 
+The whole thing seems less than Kosher, so [I sub-tweet about it](https://twitter.com/MelanieCrissey/status/509773152826966016) and go back to work. My phone blows up. Lively Twitter debate ensues. 
 
 ###Is it shady to use beta sign-ups for customer discovery or lead generation before your product is available? What are good ways to incentivize social sharing at an early stage?###
 
