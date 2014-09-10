@@ -19,7 +19,7 @@ And that's when things get weird.
 
 ![weird](/img/weird.png)
 
-**Springsled wants me to use my social equity to promote their product before I've seen or used the tool.**
+**Springsled wants to use my social equity to promote their product before I've seen or used the tool.**
 
 A handy link on the bottom of Springsled's page catches my attention. It reads “Powered by [Untorch](http://untorch.com/).” Funny thing - Untorch's landing page looks exactly like the Springsled landing page, except their page reads “Get sign ups” and “The world's easiest referral program.”
 
@@ -27,7 +27,7 @@ The whole thing seems less than Kosher, so [I sub-tweet about it](https://twitte
 
 ###Is it shady to use beta sign-ups for customer discovery or lead generation before your product is available? What are good ways to incentivize social sharing at an early stage?###
 
-It's absolutely fair game to use a beta sign-up form for customer discovery, but **incentivizing beta users to help score email address referrals comes with inherent risk.**
+It's absolutely fair game to use a beta sign-up form for customer discovery, but **incentivizing leads to help score email address referrals before they're beta users comes with inherent risk.**
 
 I wasn't comfortable promoting Springsled's product sight-unseen. As such, I did something SUPER shady. I used 5 unique personal email aliases to act like 5 referrals and won early beta access for myself without sharing the link at all. [#sorrynotsorry](http://25.media.tumblr.com/dd970af27c0b6beac20d32b8fa4e46c4/tumblr_mji1yb4SjI1rp7756o1_500.gif)
 
