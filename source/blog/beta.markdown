@@ -43,4 +43,9 @@ In the end, [Cliff Seal](https://twitter.com/cliffseal/status/509798731588567040
 
 --
 
-I'm still curious to learn more about Springsled and I hope I'll love their product. We'll see how it goes tomorrow if they send me a link to login.
+Update (6:00 PM) I'm still curious to learn more about Springsled and I hope I'll love their product. We'll see how it goes tomorrow if they send me a link to login.
+
+--
+
+Update (9:00 PM)
+“Springsled” sent me an email with a link to “Create an Account” with a twist - they've switched names and they're going by “Horizonate” now. At this point I've seen too many red flags to continue and try their product. Next steps? Unsubscribe. Mark as spam. Reset passwords. Move on with my life.
