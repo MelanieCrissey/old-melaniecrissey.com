@@ -8,7 +8,7 @@ According to [Racked.com](http://racked.com/archives/2014/09/16/golly-magazine-s
 
 When I read about how Golly bootstrapped their publication I exclaimed, “Ich bin impressed!” and “I wish I'd thought of that!” with air from the same gasp.
 
-Confession: A few months ago I launched the idea of a web publication for the curious community of artists and locavores in my neighborhood. I failed miserably. I'm still failing.
+Confession: A few months ago I launched the idea of a web publication designed to educate and entertain local folks in my hometown. I failed miserably. I'm still failing.
 
 Generous, enthusiastic, talented people offered to work with me for free to help me execute my vision. They did legwork and sent me solid stories. I failed to deliver the platform they deserved for those stories.
 
