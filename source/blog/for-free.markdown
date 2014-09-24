@@ -21,7 +21,7 @@ When you fail you learn. I learned that I shouldn't ask people to work with me f
 
 But, [what about paying it forward](https://twitter.com/kevsandlin/status/514600711360102400)?
 
-**Paying it forward is not the same as working for free.** Paying it forward means helping someone without expecting anything in return. Paying it forward means someone did something great for you and you can pass along that positive energy without returning it to the original benefactor. Paying it forward should give you the [warm and fuzzies](http://31.media.tumblr.com/tumblr_m8gul4NjKF1rxn6k9o1_500.gif) or be such a natural expression of your soul's energy that it doesn't feel like work. When I'm paying it forward I know that I'm truly working for myself because my life is better for it.
+**Paying it forward is not the same as working for free.** Paying it forward means helping someone without expecting anything in return. Paying it forward means someone did something great for you and you can pass along that positivity without returning it directly to the original benefactor. Paying it forward should give you the [warm and fuzzies](http://31.media.tumblr.com/tumblr_m8gul4NjKF1rxn6k9o1_500.gif) or be such a natural expression of your soul's energy that it doesn't feel like work. When I'm paying it forward I know that I'm truly working for myself because my life is better for it.
 
 Working for free is uncompensated labor that may or may not feel like work. Only work for free if the expected personal benefit from your uncompensated labor outweighs your opportunity cost.
 
