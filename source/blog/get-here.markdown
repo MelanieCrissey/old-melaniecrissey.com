@@ -8,7 +8,7 @@ Yesterday I made a new friend. He invited me into his office and poured me a cup
 
 [How did I get here?](https://play.spotify.com/track/1Tr4K5MU5XYE44umXGDndd)
 
-I wish I could say that I got myself where I am today with hardwork and determination, but that's just not how it happened. 
+I wish I could say that I got myself where I am today with hard work and determination, but that's just not how it happened. 
 
 In 2007 I met a young man at a party who became a friend I would occasionally run into at pubs. That guy got a job at a growing software company with a referral program. His referral scored me an interview that I bombed. Someone at that company gave me a second chance and invited me back to interview for a position that would be my first dream job.
 
