@@ -148,6 +148,7 @@ ul {
 	img { max-width: 300px;}
 	.frame {max-height:400px;}
 	.quote {max-width: 250px;}
+	.youtube {max-height: 200px;}
 }
 
 /* form styles start here */ 
@@ -247,4 +248,15 @@ hr {
 .fa-rebel {
 	color: #FF3900;
 	font-size: 12px;
+}
+
+.youtube {
+	height: 400px;
+}
+
+.glyph {
+	text-align: center;
+	color: #A62500;
+	display: block;
+	font-size: 20px;
 }
