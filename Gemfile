@@ -24,3 +24,6 @@ gem "middleman-deploy"
 # Utilities
 gem 'rake', '~> 10.3.2'
 gem "puma"
+
+#jQuery
+gem "jquery-middleman"

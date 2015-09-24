@@ -1,7 +1,7 @@
 ---
 title: 90 Days of UX
 date: 2015-09-23 20:00 UTC
-tags:
+tags: 90daysofux
 ---
 
 Today I'm beginning something new.
@@ -32,4 +32,4 @@ Consider this an invitation to learn with me or hold me accountable.
 
 Here we go. 90 days. 90 hours. 90 little blog posts.
 
-Here's lookin' at you, December 22nd.
+Here's lookin' at you, December 23nd.
