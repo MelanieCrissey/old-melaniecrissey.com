@@ -158,6 +158,7 @@ ul {
 	.frame {max-height:400px;}
 	.quote {max-width: 250px;}
 	.youtube {max-height: 200px;}
+	div[type="submit"] {width: 50%;}
 }
 
 /* form styles start here */ 
@@ -316,6 +317,8 @@ div[type="submit"]:hover {
 	background-color: #00391a;
 		border: 1px solid #00391a;
 }
+
+
 
 div[type="submit"] p {
 	color: #fff;
