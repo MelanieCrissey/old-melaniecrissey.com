@@ -146,21 +146,6 @@ ul {
 	display: block;
 }
 
-/* media queries start here */ 
-
-@media only screen and (max-width : 600px) {
-	h1 {font-size: 36px;}
-	h2 {font-size: 34px;}
-	h3 {font-size: 28px;}
-	.container {padding: 15px;}
-	.nav li {display: block; margin-bottom: 10px; line-height: 30px;}
-	img { max-width: 300px;}
-	.frame {max-height:400px;}
-	.quote {max-width: 250px;}
-	.youtube {max-height: 200px;}
-	div[type="submit"] {width: 50%;}
-}
-
 /* form styles start here */ 
 input[type="submit"] {
 	display: block;
@@ -342,4 +327,20 @@ div[type="submit"] p {
 	margin-left: 10px;
 	margin-right: 10px;
 	font-family: 'Avenir', san-serif;
+}
+
+/* media queries start here */ 
+
+@media only screen and (max-width : 600px) {
+	h1 {font-size: 36px;}
+	h2 {font-size: 34px;}
+	h3 {font-size: 28px;}
+	.container {padding: 15px;}
+	.nav li {display: block; margin-bottom: 10px; line-height: 30px;}
+	img { max-width: 300px;}
+	.frame {max-height:400px;}
+	.quote {max-width: 250px;}
+	.youtube {max-height: 200px;}
+	div[type="submit"] {width: 50%;}
+	select {width: 85%;}
 }
