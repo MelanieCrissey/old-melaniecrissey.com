@@ -10,10 +10,12 @@
 }
 
 .nav li {
-	display: inline;
 	padding: 0 10px 0 10px;
 	color: #333;
 	font-family: 'Avenir', sans-serif;
+	display: block; 
+	margin-bottom: 10px; 
+	line-height: 30px;
 }
 
 .nav a, a.tab, .nav a:visited, a.tab:visited {
@@ -51,6 +53,7 @@ a:visited {
 	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 15px;
 }
 
 article {
@@ -69,7 +72,7 @@ article ul li {
 }
 
 article img {
-	max-width: 600px;
+	max-width: 300px;
 	width: 100%;
 }
 
@@ -84,21 +87,21 @@ body {
 h1 {
 	color: #333;
 	font-family: "source-serif-pro", serif;
-	font-size: 50px;
+	font-size: 36px;
 	font-weight: bold;
 }
 
 article h1 {
 	color: #333;
 	font-family: "source-serif-pro", serif;
-	font-size: 40px;
+	font-size: 36px;
 	text-align: left;
 }
 
 h2, article h2 {
 	color: #333;
 	font-family:"source-serif-pro", serif;
-	font-size: 30px;
+	font-size: 34px;
 	text-align: left;
 	line-height: 1.5em;
 	margin-top:-20px
@@ -107,7 +110,7 @@ h2, article h2 {
 article h3 {
 	color: #333;
 	font-family:"source-serif-pro", serif;
-	font-size:30px;
+	font-size:28px;
 	text-align: left;
 	line-height: 1.5em;
 }
@@ -146,7 +149,7 @@ ul {
 	display: block;
 }
 
-/* form styles start here */ 
+/* form styles start here */
 input[type="submit"] {
 	display: block;
 	width: 100px;
@@ -245,7 +248,7 @@ hr {
 }
 
 .youtube {
-	height: 400px;
+	height: 200px;
 }
 
 .glyph {
@@ -271,6 +274,7 @@ select {
     border-radius: 3px;
     border: 1px solid #ededed;
     background-color: #ffffff;
+    width: 85%;
 }
 input[type="text"]  {
 		width: 50px;
@@ -294,13 +298,13 @@ div[type="submit"] {
 	color: #fff;
 	border-radius: 4px;
 	border: 1px solid #007536;
-	width: 25%;
+	width: 50%;
 	margin-top: 30px;
 }
 
 div[type="submit"]:hover {
 	background-color: #00391a;
-		border: 1px solid #00391a;
+	border: 1px solid #00391a;
 }
 
 
@@ -331,16 +335,14 @@ div[type="submit"] p {
 
 /* media queries start here */ 
 
-@media only screen and (max-width : 600px) {
-	h1 {font-size: 36px;}
-	h2 {font-size: 34px;}
-	h3 {font-size: 28px;}
-	.container {padding: 15px;}
-	.nav li {display: block; margin-bottom: 10px; line-height: 30px;}
-	img { max-width: 300px;}
-	.frame {max-height:400px;}
-	.quote {max-width: 250px;}
-	.youtube {max-height: 200px;}
-	div[type="submit"] {width: 50%;}
-	select {width: 85%;}
+@media only screen and (min-width : 600px) {
+	h1 {font-size: 50px;}
+	h2 {font-size: 40px;}
+	h3 {font-size: 30px;}
+	select {width: auto;}
+	div[type="submit"] {width: 25%;}
+	article img {max-width: 600px;}
+	.youtube {height: 400px;}
+	.container {padding: 0px;}
+	.nav li {	display: inline; margin-bottom: 0px; line-height: 1em;}
 }
