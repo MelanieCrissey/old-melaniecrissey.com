@@ -1,7 +1,7 @@
 ---
 title: "Day Two: Mobile First"
 date: 2015-09-25 20:56 UTC
-tags:
+tags: 90DaysofUX
 ---
 
 If you visited [yesterday's blog post](/blog/default.html) on a mobile device you may have noticed something odd:

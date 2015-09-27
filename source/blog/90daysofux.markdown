@@ -1,7 +1,7 @@
 ---
 title: 90 Days of UX
 date: 2015-09-23 20:00 UTC
-tags: 90daysofux
+tags: 90DaysofUX
 ---
 
 Today I'm beginning something new.

@@ -57,4 +57,4 @@ This syllabus is loosely based on a [preview syllabus for General Assembly's 12 
 
 ### Week Twelve: Portfolio and Wrap-up
 
-![More notebooks](/img/notebooks2.jpg)
+![More notebooks](/img/notebooks_2.jpg)
