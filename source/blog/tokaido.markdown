@@ -1,6 +1,6 @@
 ---
 title: "Day Four: Tokaido"
-date: 2015-09-28 03:31 UTC
+date: 2015-09-27 11:30 UTC
 tags: 90DaysofUX
 ---
 
