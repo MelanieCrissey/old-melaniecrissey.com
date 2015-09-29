@@ -4,7 +4,7 @@ date: 2014-08-28 19:48 UTC
 tags:
 ---
 
-The last few weeks have been rough. 
+The last few weeks have been rough.
 
 Each day seems more violent and mind-numbingly tragic than the day before - and that's just [the stuff on the news](http://nymag.com/scienceofus/2014/08/what-all-this-bad-news-is-doing-to-us.html).
 
@@ -18,7 +18,7 @@ Here's what some of my mini-habits looked like this past week:
 * **Mop one room in my house.** Guess who mopped four rooms?! This gal.
 * **Put one foot in front of the other foot.** Made it all the way out the door and up 5 flights of stairs this morning. Not bad at all, [if I do say so myself](http://38.media.tumblr.com/0c7ae7fc59c54ad3bea2f696dbf7ec12/tumblr_myn3szNP3X1qej93ko1_500.gif).
 
-Go forward one step at a time and be amazed at how far you can go. 
+Go forward one step at a time and be amazed at how far you can go.
 
 ![comeonfeet](/img/comeonfeet.jpg)
 

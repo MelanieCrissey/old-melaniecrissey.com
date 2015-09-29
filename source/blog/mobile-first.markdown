@@ -6,7 +6,7 @@ tags: 90DaysofUX
 
 If you visited [yesterday's blog post](/blog/default.html) on a mobile device you may have noticed something odd:
 
-<img alt="Pizza Rat Form" style="width: 300px;" src="/img/pizzaRat.jpg">
+<img alt="Pizza Rat Form" style="max-width: 400px;" src="/img/pizzaRat.jpg">
 
 The 'Order Pizza' button looked awkwardly small. The text wrapped.
 
