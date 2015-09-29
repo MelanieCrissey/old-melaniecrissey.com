@@ -13,7 +13,7 @@ When I got home to the comfort of my plaid club chair I was feeling super inspir
 
 Jared Spool podcast to the rescue!
 
-I tuned into *[Cultivating Shared Understanding from Collaborative User Research](https://www.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/)* with Jared Spool featuring Erika Hall of Mule Design.
+I tuned in to *[Cultivating Shared Understanding from Collaborative User Research](https://www.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/)* with Jared Spool featuring Erika Hall of Mule Design.
 
 Holy moly. Laughs. Smiles. So many brilliant things that I badly needed to hear.
 
