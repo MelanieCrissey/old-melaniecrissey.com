@@ -4,7 +4,7 @@ date: 2015-10-06 02:33 UTC
 tags: 90DaysofUX
 ---
 
-Whoops! I got off track and now I'm a little behind schedule.
+Whoops! I got off track and now I'm a behind schedule.
 
 ### Things I've done since my last post:
 
