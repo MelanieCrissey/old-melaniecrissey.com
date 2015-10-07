@@ -15,7 +15,7 @@ I spent most of the first panel fan-girling about being in the same room with [K
 
 Fun fact: today was the first time I heard the term 'Service-oriented Architecture' or 'SOA' used in a sentence.
 
-**Now, y'all take the rest of this post with a grain of salt, because I'm still learning and I have no idea what I'm talking about...**
+**Now, y'all take the rest of this post with a grain of salt, because I'm still learning...**
 
 It seems like maybe 'SOA' is a way to describe a set of flexible, reusable code modules we can use to pass data back and forth to accomplish different tasks as part of a greater, integrated system.
 
