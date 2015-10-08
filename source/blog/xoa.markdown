@@ -1,6 +1,6 @@
 ---
 title: "Day Nine: XOA"
-date: 2015-10-07 01:33 UTC
+date: 2015-10-06 11:00 UTC
 tags: 90DaysofUX
 ---
 

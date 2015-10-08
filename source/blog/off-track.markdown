@@ -1,6 +1,6 @@
 ---
 title: "Day Eight: Off Track"
-date: 2015-10-06 02:33 UTC
+date: 2015-10-05 11:00 UTC
 tags: 90DaysofUX
 ---
 

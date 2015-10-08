@@ -1,6 +1,6 @@
 ---
 title: "Day Ten: Panels"
-date: 2015-10-07 22:46 UTC
+date: 2015-10-07 11:00 UTC
 tags: 90DaysofUX
 ---
 Today I went to two panels at SuperNova South:
