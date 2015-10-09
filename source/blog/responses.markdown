@@ -30,6 +30,6 @@ How could we improve the response rate on this form?
 * Remove the email address field?
 * Improve the design of the form to make it more appealing?
 
-It's funny... while the form itself hasn't gathered many responses, we have received some great responses through other channels. Users and prospects on calls or web meetings don't hesitate to share thoughts. Some folks even took the time to contact the support channel to share ideas about the changed interface.
+It's funny... while the form itself hasn't gathered many responses yet, we have received some great responses through other channels. Users and prospects on calls or web meetings don't hesitate to share thoughts. Some folks even took the time to contact the support channel to share ideas about the changed interface.
 
-This seems to debunk my idea that anonymity is key when gathering responses to a new feature or user interface.
+This seems to debunk my idea that anonymity is key when gathering responses to a new feature or user interface. My current theory is that the UX of the process for providing feedback is inhibiting users from readily sharing their experiences.
