@@ -1,6 +1,6 @@
 ---
 title: "Day Twelve: Apart"
-date: 2015-10-21 11:00 UTC
+date: 2015-10-20 10:40 UTC
 tags: 90DaysofUX
 ---
 
