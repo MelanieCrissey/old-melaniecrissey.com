@@ -52,7 +52,7 @@ For example, if I want to customize the social media icons to be fancy hand-draw
 
 **It's NOT super easy to position images inline with text on a page.**
 
-Elizabeth had a sweet idea to replace a sub-header 'Snail Mail' with an image of a snail inline with the word 'mail.' We couldn't figure out how to insert the image inline with the text. My friend Sam ended up creating an image in Photoshop to combine the image with the text, which isn't a best practice for web design or development. Once we had the image we needed to do math to estimate the width and height of our image so that the text looks like 20.8 px font. Then we ran into some issues with resolution.
+Elizabeth had a sweet idea to replace a sub-header 'Snail Mail' with an image of a snail inline with the word 'mail.' We couldn't figure out how to insert the image inline with the text. My new friend Sam ended up creating an image in Photoshop to combine the image with the text, which isn't a best practice for web design or development. Once we had the image we needed to do math to estimate the width and height of our image so that the text looks like 20.8 px font. Then we ran into some issues with resolution.
 
 ![snail](/img/snail.png)
 <sub>This is what we get when we add the snail image to the page content.</sub>
