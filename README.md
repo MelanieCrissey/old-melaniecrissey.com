@@ -1,18 +1,32 @@
 ## Get Dependencies
-		
-		bundle install
+```bash		
+bundle install
+```
 
 ## Update Dependencies
+```bash
+bundle update
+```
 
-		bundle update
+## Run the server
+```bash
+rake server
+```
+
+## View your site
+```bash
+http://localhost:4567
+```
 
 ## Ready to deploy?
-
-		middleman build
-		git add --all
-		git commit -m "your commit comment"
-		git push heroku master
+```bash
+middleman build
+git add --all
+git commit -m "your commit comment"
+git push heroku master
+```
 
 ## Create New Article
-
-Type `middleman article "Your Title"` to make a new blog entry.
+```bash
+middleman article {your_title}
+```
