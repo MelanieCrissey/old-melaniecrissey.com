@@ -1,43 +1,33 @@
 #header {
 	width: 100%;
-	text-align: center;
+	text-align: left;
 	color: #333;
-	margin: 50px 0px 50px;
+	font-family: 'Avenir', sans-serif;
 }
 
-.nav ul {
-	margin-left: -40px;
+.container {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .nav li {
-	padding: 0 10px 0 10px;
 	color: #333;
 	font-family: 'Avenir', sans-serif;
-	display: block; 
-	margin-bottom: 10px; 
-	line-height: 30px;
 }
 
 .nav a, a.tab, .nav a:visited, a.tab:visited {
-		color: #333;
-		padding-bottom: 6px;
-		font-size: 18px;
-		text-transform:uppercase;
-		font-weight:bold;
+	color: #333;
 }
 
 .nav a:hover, .tab:hover {
 	border-bottom: 2px solid #00391a;
-	padding-bottom: 6px;
 }
 
 .back {
 	color: #086CA2;
-	text-transform: uppercase;
 	font-family: 'Avenir', sans-serif;
-	padding-bottom: 40px;
 	display: inline;
-	font-size: 18px;
 }
 
 a {
@@ -49,22 +39,14 @@ a:visited {
 	color: #034569;
 }
 
-.container {
-	max-width: 600px;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 15px;
-}
 
 article {
 	text-align: left;
-	font-size: 18px;
-	position: relative;
-	font-family: 'source-serif-pro', serif;
+	font-family: 'Avenir', sans-serif;
 }
 
 article ul li, article ol li {
-	font-family: "source-serif-pro", serif;
+	font-family: 'Avenir', sans-serif;
 }
 
 article ul li {
@@ -86,55 +68,43 @@ body {
 
 h1 {
 	color: #333;
-	font-family: "source-serif-pro", serif;
-	font-size: 36px;
+	font-family: 'Avenir', sans-serif;
 	font-weight: bold;
 }
 
 article h1 {
 	color: #333;
-	font-family: "source-serif-pro", serif;
-	font-size: 36px;
+	font-family: 'Avenir', sans-serif;
 	text-align: left;
 }
 
 h2, article h2 {
 	color: #333;
-	font-family:"source-serif-pro", serif;
-	font-size: 34px;
+	font-family: 'Avenir', sans-serif;
 	text-align: left;
-	line-height: 1.5em;
-	margin-top:-20px
 }
 
 article h3 {
 	color: #333;
-	font-family:"source-serif-pro", serif;
-	font-size:28px;
+	font-family: 'Avenir', sans-serif;
 	text-align: left;
-	line-height: 1.5em;
 }
 
 article h4 {
 	color: #333;
-	font-family:"source-serif-pro", serif;
-	font-size: 20px;
+	font-family: 'Avenir', sans-serif;
 	text-align: left;
-	line-height: 1.5em;
 }
 
 .quote {
-	font-family:"source-serif-pro", serif;
+	font-family: 'Avenir', sans-serif;
 	text-align: left;
-	border-left: 3px solid #FF3900;
-	padding-left:20px;
-	margin-left:20px;
 	max-width: 560px;
 }
 
 p, label {
 	color: #333;
-	font-family: "source-serif-pro", serif;
+	font-family: 'Avenir', sans-serif;
 }
 ul {
 	color: #333;
@@ -212,22 +182,6 @@ hr {
  border-radius: 50%;
 }
 
-.center {
-	max-width: 300px;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	display: block;
-}
-
-.centerly {
-	max-width: 100%;
-	margin-left: auto;
-	margin-right:auto;
-	text-align: center;
-	display: block;
-}
-
 .emoji, img[alt="emoji"] {
 	width: 20px;
 	}
@@ -267,7 +221,7 @@ label.inline {
 }
 
 select {
-		font-family: 'Avenir', sans-serif;
+	font-family: 'Avenir', sans-serif;
     color: #333;
     font-size: 16px;
     line-height: 27px;
@@ -277,7 +231,7 @@ select {
     width: 85%;
 }
 input[type="text"]  {
-		width: 50px;
+	width: 50px;
     font-family: 'Avenir', sans-serif;
     color: #333;
     font-size: 16px;

@@ -4,9 +4,9 @@ title: Blog
 
 <% blog.articles.each do |article| %>
   <article>
-    <h1>
+    <h2>
       <a href="<%= article.url %>"><%= article.title %></a>
-    </h1>
+    </h2>
     <time class="date"><%= article.date.strftime('%e %B %Y') %></time>
   </article>
   <hr>

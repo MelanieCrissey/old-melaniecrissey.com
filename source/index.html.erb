@@ -1,4 +1,25 @@
 ---
-title: Welcome
+title: Says Hi
 ---
 
+<p>Lives in the ‘burbs. Loves Atlanta startups. Works with <a href="https://fullstory.com">FullStory.</a><br/>
+Cares about user experience (UX) and customer experience (CX).</p>
+
+<p>Blogs here.</p>
+
+<% blog.articles[0...3].each do |article| %>
+  <article>
+    <h1>
+      <a href="<%= article.url %>"><%= article.title %></a>
+    </h1>
+    <time class="date"><%= article.date.strftime('%e %B %Y') %></time>
+  </article>
+  <hr>
+<% end %>
+
+<ul class="social_profiles">
+		<li><a href="https://twitter.com/MelanieCrissey"/></a>Twitter</li>
+		<li><a href="http://instagram.com/melaniecrissey"/>Instagram</a></li>
+		<li><a href="https://github.com/MelanieCrissey"/>Github</a></li>
+		<li><a href="https://www.linkedin.com/in/melaniecrissey"/>LinkedIn</a></li>
+</ul>
