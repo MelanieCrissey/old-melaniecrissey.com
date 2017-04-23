@@ -4,6 +4,8 @@ date: 2014-09-04 13:47 UTC
 tags:
 ---
 
+<p class="note">Heads up: since this post was published, Slingput has gone into defunct mode. It also looks like the original Medium post that Tavani wrote about Statup x Month has since been deleted. Don't hesitate to reach out if you have more questions about this project. Thanks!</p>
+
 Last night we celebrated the end of [Startup x Month](http://www.hypepotamus.com/community/startup-x-month-grand-finale/) and the launch of [Slingput](http://www.slingput.com/) with a walking tour of the neighborhood [Switchyards](http://www.switchyards.com/) will call home.
 
 ![downtownatlanta](/img/downtownatlanta.png)

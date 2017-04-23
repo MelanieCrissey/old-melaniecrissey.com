@@ -1,3 +1,5 @@
+//Global Styles
+
 body {
 	background-color: $almost-black;
 }
@@ -5,6 +7,46 @@ body {
 #header {
 	width: 100%;
 	text-align: left;
+}
+
+h1 a, h1 a:visited {
+	font-family: 'Avenir', sans-serif;
+	font-weight: 100;
+  	background: -webkit-linear-gradient(bottom right, $melennial-pink-dark, $melennial-pink);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+
+}
+
+h2 {
+	color: $almost-black;
+	font-family: 'Avenir', sans-serif;
+	text-align: left;
+	&.home {
+		font-size: 16px;
+    	text-transform: uppercase;
+    	color: $medium-grey;
+    	letter-spacing: 2px;
+	}
+}
+
+h3 {
+	color: $almost-black;
+	font-family: 'Avenir', sans-serif;
+	text-align: left;
+}
+
+h4 {
+	color: $almost-black;
+	font-family: 'Avenir', sans-serif;
+	text-align: left;
+}
+
+p, label, ol, li {
+	color: $almost-black;
+	font-family: 'Avenir', sans-serif;
+	line-height: 1.5em;
+    font-size: 18px;
 }
 
 .wrapper {
@@ -22,6 +64,11 @@ body {
 #footer {
 	padding: 2em 0;
 	color: $white;
+}
+
+#footer h4 {
+	font-weight: 100;
+    color: $light-grey;
 }
 
 #footer .nav, .social_profiles__link {
@@ -48,14 +95,12 @@ a.tab:visited {
 	border-bottom: 2px solid $melennial-pink;
 }
 
-a.love:hover {
-	border-bottom: 2px solid $almost-black;
+li.selected a {
+	 border-bottom: 2px solid $melennial-pink;
 }
 
-.back {
-	color: $medium-blue;
-	font-family: 'Avenir', sans-serif;
-	display: inline;
+a.love:hover {
+	border-bottom: 2px solid $almost-black;
 }
 
 a {
@@ -67,127 +112,12 @@ a {
 	}
 }
 
-.summary__link {
-	text-align: left;
-	font-family: 'Avenir', sans-serif;
-    background-color: $almost-white;
-    border: 2px solid $almost-white;
-    padding: 18px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    transition: all .15s linear;
-    display: block;
-
-    &:hover {
-    	background-color: $white;
-    }
-    h3 {
-    	margin-top: 0px;
-    }
-}
-
-
-.li_nav {
-	list-style-type: none;
-}
-
-.col_left, .col_right {
-	width: 50%;
-}
-.col_left {
-	text-align: left;
-	float: left;
-}
-.col_right {
-	text-align: right;
-	float: right;
-}
-
-.clearfix {
-	clear: both;
-}
-
-article ul li, article ol li {
-	font-family: 'Avenir', sans-serif;
-}
-
-article ul li {
-	list-style-type: disc;
-	margin-left: 18px;
-}
-
-article img {
-	max-width: 300px;
-	width: 100%;
-}
-
-li.selected a {
-	 border-bottom: 2px solid $melennial-pink;
-}
-
-
-h1 a, h1 a:visited {
-	font-family: 'Avenir', sans-serif;
-	font-weight: 100;
-  	background: -webkit-linear-gradient(bottom right, $melennial-pink-dark, $melennial-pink);
-  	-webkit-background-clip: text;
-  	-webkit-text-fill-color: transparent;
-
-}
-
-h2.home {
-	font-size: 16px;
-    text-transform: uppercase;
-    color: $medium-grey;
-    letter-spacing: 2px;
-}
-
-#footer h4 {
-	font-weight: 100;
-    color: $light-grey;
-}
-
-article h1 {
-	color: $almost-black;
-	font-family: 'Avenir', sans-serif;
-	text-align: left;
-}
-
-h2 {
-	color: $almost-black;
-	font-family: 'Avenir', sans-serif;
-	text-align: left;
-}
-
-h3 {
-	color: $almost-black;
-	font-family: 'Avenir', sans-serif;
-	text-align: left;
-}
-
-h4 {
-	color: $almost-black;
-	font-family: 'Avenir', sans-serif;
-	text-align: left;
-}
-
-.quote {
-	font-family: 'Avenir', sans-serif;
-	text-align: left;
-	max-width: 560px;
-}
-
-p, label {
-	color: $almost-black;
-	font-family: 'Avenir', sans-serif;
-	line-height: 1.5em;
-    font-size: 18px;
-}
 ul {
 	color: $almost-black;
-	list-style-type: none;
+	list-style-type: disc;
 	font-family: 'Avenir', sans-serif
 	}
+
 ul.social_profiles  li, ul.values_list li{
 	list-style-type: none;
 }
@@ -211,40 +141,49 @@ a.social_profiles__link {
 	}
 }
 
-.show {
-	display: block;
+.summary__link {
+	text-align: left;
+	font-family: 'Avenir', sans-serif;
+    background-color: $almost-white;
+    border: 2px solid $almost-white;
+    padding: 18px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    transition: all .15s linear;
+    display: block;
+
+    &:hover {
+    	background-color: $white;
+    }
+    h3 {
+    	margin-top: 0px;
+    }
 }
 
-.headshot {
-	max-width: 300px;
-    float: right;
-    padding: 20px;
+.li_nav {
+	list-style-type: none;
+	margin-left: 0px;
 }
 
-/* form styles start here */
-input[type="submit"] {
-	display: block;
-	width: 100px;
-	background-color: $white;
-	color: $almost-black;
-	border-right: none;
-	border-top: none;
-	border-left: none;
-	font-size: 14px;
-	padding-bottom: 6px;
-	cursor: pointer;
+//Posts Navigation
 
+.col_left, .col_right {
+	width: 50%;
 }
-form label, form input {
-	display:block;
-	width: 100%;
-	margin: 10px 0 10px 0;
+.col_left {
+	text-align: left;
+	float: left;
+}
+.col_right {
+	text-align: right;
+	float: right;
 }
 
-/* hide Typekit badge */ 
-img.typekit-badge {
-	display: none !important;
+.clearfix {
+	clear: both;
 }
+
+//Post Styles
 
 .date {
 	text-align: left;
@@ -254,6 +193,49 @@ img.typekit-badge {
 
 }
 
+article ul li, article ol li {
+	margin-left: 18px;
+	&ul li {
+		list-style-type: disc;
+	}
+}
+
+article img {
+	max-width: 300px;
+	width: 100%;
+}
+
+article h1 {
+	color: $almost-black;
+	font-family: 'Avenir', sans-serif;
+	text-align: left;
+}
+
+.quote {
+	font-family: 'Avenir', sans-serif;
+	text-align: left;
+	max-width: 560px;
+}
+
+.quote__block {
+	font-weight: bold; 
+	border: 2px solid $almost-black; 
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.show {
+	display: block;
+}
+
+.note {
+	background-color: $melly-belly-yellow;
+	border-radius: 5px;
+	padding: 15px;
+	color: $almost-black;
+}
+
+//Special Post Styles
 .emoji, img[alt="emoji"] {
 	width: 20px;
 	}
@@ -283,6 +265,48 @@ img.typekit-badge {
 	display: block;
 	font-size: 3ß0px;
 }
+
+.units {
+	background-color: #ededed;
+    padding: 2px 7px;
+    display: inline-block;
+    border-radius: 3px;
+}
+
+.multiplier {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: 'Avenir', sans-serif;
+}
+
+//About Page Styles
+.headshot {
+	max-width: 250px;
+    float: right;
+    padding: 20px;
+}
+
+//Form Styles
+input[type="submit"] {
+	display: block;
+	width: 100px;
+	background-color: $white;
+	color: $almost-black;
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	font-size: 14px;
+	padding-bottom: 6px;
+	cursor: pointer;
+
+}
+form label, form input {
+	display:block;
+	width: 100%;
+	margin: 10px 0 10px 0;
+}
+
+
 .inline {
 	display:inline;
 }
@@ -333,8 +357,6 @@ div[type="submit"]:hover {
 	border: 1px solid #00391a;
 }
 
-
-
 div[type="submit"] p {
 	color: $white;
 	text-align: center;
@@ -346,20 +368,12 @@ div[type="submit"] p {
 		border: 1px solid #00391a;
 }
 
-.units {
-	  background-color: #ededed;
-    padding: 2px 7px;
-    display: inline-block;
-    border-radius: 3px;
+//Hide Typekit
+img.typekit-badge {
+	display: none !important;
 }
 
-.multiplier {
-	margin-left: 10px;
-	margin-right: 10px;
-	font-family: 'Avenir', sans-serif;
-}
-
-/* media queries start here */ 
+//Media Queries
 
 @media only screen and (min-width : 600px) {
 	h1 {font-size: 50px;}
@@ -374,8 +388,7 @@ div[type="submit"] p {
 }
 
 
-/* force some images to be less wide on desktop */
-
+//Make Some Images Less Wide on Desktop
 img[alt="css"], img[alt="style editor"], img[alt="show icon"], img[alt="snail mail"] {
 	width: 350px;
 	margin-left: auto;

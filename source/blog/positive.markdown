@@ -18,7 +18,7 @@ Here’s the problem with the Thumper Rule: it perpetuates negligence.
 
 To be supportive, we need to acknowledge the negative. To grow and improve, we need to be critical and constructive. We can benefit from disagreements and diversity of opinions. Most importantly, we need trust - and no one trusts someone who only opens up about the good things in their life.
 
-<p style="font-family: source-serif-pro, serif; font-weight: bold; border: 3px solid #333; padding: 10px;">#ilovemydog #soblessed #lifeisgood <br/> (not pictured: the pile of poop I just shoveled off the floor)</p>
+<p class="quote__block">#ilovemydog #soblessed #lifeisgood <br/> (not pictured: the pile of poop I just shoveled off the floor)</p>
 
 Positivity starts with authenticity. Be honest. Look for the good. And, don’t be too quick to turn a blind eye when something negative comes into the picture. Sometimes all it takes is a little development to create something truly luminous.
 

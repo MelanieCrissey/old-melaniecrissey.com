@@ -6,7 +6,7 @@ tags:
 
 Yesterday I made a new friend. He invited me into his office and poured me a cup of Ethiopian coffee in a red speckled mug. He told me candid, vivid parts of stories about his life, his friends, and his work. I was lackadaisically swirling coffee in the bottom of my mug when he asked me, "What about you?"
 
-[How did I get here?](https://play.spotify.com/track/1Tr4K5MU5XYE44umXGDndd)
+[How did I get here?](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k)
 
 I wish I could say that I got myself where I am today with hard work and determination, but that's just not how it happened. 
 

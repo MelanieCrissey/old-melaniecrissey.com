@@ -8,7 +8,7 @@ tags: 90DaysofUX
 
 Today I created a syllabus. This is my no means a strict schedule. This will be my guide to help me stay focused and on track for the next 88 days.
 
-This syllabus is loosely based on a [preview syllabus for General Assembly's 12 Week User Experience Design program](https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/course_applications/user-experience-design/User_Experience_Design_Course_-_GA-af94c82cbffcb4eaf310870fbf17b2c5.pdf). I've augmented it to include specific things I know I want to learn.
+This syllabus is loosely based on a preview syllabus for General Assembly's 12 Week User Experience Design program. I've augmented it to include specific things I know I want to learn.
 <br/>
 <br/>
 

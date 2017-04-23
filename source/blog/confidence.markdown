@@ -12,11 +12,9 @@ My reaction: “Whoa. If women only feel confident when they’re practically pe
 
 ![practically perfect](/img/practicallyperfect.jpg)
 
-<p>Tavi’s caption: “This is why I start every morning with M.I.A <img class="emoji" alt="gold start" src="/img/gold-star.png"/></p>
+<p>Tavi’s caption: “This is why I start every morning with M.I.A <i class="em em-star2"></i></p>
 
 ![bad girls](/img/bad-girls.jpg) 
-
-(Excuse me while I add all the M.I.A. songs to my _[Do Work](http://open.spotify.com/user/1216657104/playlist/3gB0VbAyNg02B62tLw8pyE)_ playlist.)
 
 The pictured excerpt is a bit of an article titled _[The Confidence Gap](http://www.theatlantic.com/features/archive/2014/04/the-confidence-gap/359815/)_ that was published in The Atlantic last month. Key takeaways:
 

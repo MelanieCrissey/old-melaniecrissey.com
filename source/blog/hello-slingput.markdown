@@ -4,6 +4,8 @@ date: 2014-08-12 9:00 UTC
 tags:
 ---
 
+<p class="note">Heads up: since this post was published, Slingput has gone into defunct mode. It also looks like the original Medium post that Tavani wrote about Statup x Month has since been deleted. Don't hesitate to reach out if you have more questions about this project. Thanks!</p>
+
 My closest friends know that I'm the worst at keeping secrets. I've been quietly working on something new with a talented crew of folks, and I'm delighted to tell you more about it today.
 
 Y'all, meet [Slingput](http://www.slingput.com/).

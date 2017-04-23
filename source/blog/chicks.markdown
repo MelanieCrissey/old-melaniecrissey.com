@@ -20,5 +20,5 @@ Convenience, culture, and accommodations. Atlanta is a beautiful city full of wo
 
 When I brought up the idea of starting a female-focused career development group, my boss suggested I reach out to Jen Bonnett. When I met Jen and learned about the [StartupChicks mission](http://startupchicks.org/about/), it was clear that my values aligned with the focus on connection, education, and inspiration. StartupChicks is growing a global network of female entrepreneurs. I want to be a part of that network and take advantage of existing resources.
 
-I’m excited to see how this circle will grow and develop. If you’re interested in learning about our StartupChicks circle, joining our circle, or starting your own circle, I’d love to hear from you. [Email me](mailto:melaniecrissey@gmail.com).
+I’m excited to see how this circle will grow and develop. If you’re interested in learning about our StartupChicks circle, joining our circle, or starting your own circle, I’d love to hear from you.
 

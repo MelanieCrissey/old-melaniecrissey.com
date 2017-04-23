@@ -7,7 +7,7 @@ tags: 90DaysofUX
 Today I had the chance to stop by [SuperNova South](http://supernovasouth.org/) for two sessions:
 
 * *Private Is The New Public* panel with [Jason Dominy](https://twitter.com/jasondominy)
-* *Experience Oriented Architecture* with Drew Davidson and Matt Tesch of [ÄKTA](http://akta.com/)
+* *Experience Oriented Architecture* with Drew Davidson and Matt Tesch of ÄKTA
 
 Both sessions were super interesting and super different.
 
