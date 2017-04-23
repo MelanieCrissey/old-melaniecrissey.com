@@ -1,5 +1,5 @@
 body {
-	background-color: #19191B;
+	background-color: $almost-black;
 }
 
 #header {
@@ -8,7 +8,7 @@ body {
 }
 
 .wrapper {
-	background-color: #fff;
+	background-color: $white;
 	padding: 2em 0;
 }
 
@@ -21,7 +21,7 @@ body {
 
 #footer {
 	padding: 2em 0;
-	color: #fff;
+	color: $white;
 }
 
 #footer .nav, .social_profiles__link {
@@ -30,7 +30,7 @@ body {
 
 .nav li {
 	font-family: 'Avenir', sans-serif;
-	color: #fff;
+	color: $white;
 	padding-right: 20px;
 }
 
@@ -38,29 +38,29 @@ body {
 a.tab, 
 .nav a:visited, 
 a.tab:visited {
-	color: #fff;
-		border-bottom: 2px solid #19191B;
+	color: $white;
+		border-bottom: 2px solid $almost-black;
 		transition: all .15s linear;
 }
 
 .nav a:hover, 
 .tab:hover {
-	border-bottom: 2px solid #E75172;
+	border-bottom: 2px solid $melennial-pink;
 }
 
 a.love:hover {
-	border-bottom: 2px solid #19191b;
+	border-bottom: 2px solid $almost-black;
 }
 
 .back {
-	color: #086CA2;
+	color: $medium-blue;
 	font-family: 'Avenir', sans-serif;
 	display: inline;
 }
 
 a {
 	text-decoration: none;
-	color: #086CA2;
+	color: $medium-blue;
 
 	&:visited {
 		color: #034569;
@@ -70,16 +70,16 @@ a {
 .summary__link {
 	text-align: left;
 	font-family: 'Avenir', sans-serif;
-    background-color: #F8F8F8;
+    background-color: $almost-white;
+    border: 2px solid $almost-white;
     padding: 18px;
     margin-bottom: 20px;
     border-radius: 5px;
-    border: 2px solid #f8f8f8;
-    display: block;
     transition: all .15s linear;
+    display: block;
 
     &:hover {
-    	background-color: #fff;
+    	background-color: $white;
     }
     h3 {
     	margin-top: 0px;
@@ -113,6 +113,7 @@ article ul li, article ol li {
 
 article ul li {
 	list-style-type: disc;
+	margin-left: 18px;
 }
 
 article img {
@@ -121,14 +122,14 @@ article img {
 }
 
 li.selected a {
-	 border-bottom: 2px solid #DD365E;
+	 border-bottom: 2px solid $melennial-pink;
 }
 
 
 h1 a, h1 a:visited {
 	font-family: 'Avenir', sans-serif;
 	font-weight: 100;
-  	background: -webkit-linear-gradient(bottom right, #AC3C55, #E75172);
+  	background: -webkit-linear-gradient(bottom right, $melennial-pink-dark, $melennial-pink);
   	-webkit-background-clip: text;
   	-webkit-text-fill-color: transparent;
 
@@ -137,34 +138,35 @@ h1 a, h1 a:visited {
 h2.home {
 	font-size: 16px;
     text-transform: uppercase;
-    color: #8c8c8d;
+    color: $medium-grey;
+    letter-spacing: 2px;
 }
 
 #footer h4 {
 	font-weight: 100;
-    color: #d1d1d1;
+    color: $light-grey;
 }
 
 article h1 {
-	color: #19191B;
+	color: $almost-black;
 	font-family: 'Avenir', sans-serif;
 	text-align: left;
 }
 
 h2 {
-	color: #19191B;
+	color: $almost-black;
 	font-family: 'Avenir', sans-serif;
 	text-align: left;
 }
 
 h3 {
-	color: #19191B;
+	color: $almost-black;
 	font-family: 'Avenir', sans-serif;
 	text-align: left;
 }
 
 h4 {
-	color: #19191B;
+	color: $almost-black;
 	font-family: 'Avenir', sans-serif;
 	text-align: left;
 }
@@ -176,11 +178,13 @@ h4 {
 }
 
 p, label {
-	color: #19191B;
+	color: $almost-black;
 	font-family: 'Avenir', sans-serif;
+	line-height: 1.5em;
+    font-size: 18px;
 }
 ul {
-	color: #19191B;
+	color: $almost-black;
 	list-style-type: none;
 	font-family: 'Avenir', sans-serif
 	}
@@ -189,21 +193,21 @@ ul.social_profiles  li, ul.values_list li{
 }
 ul.bullets {
 	list-style-type: disc;
-	color: #105068;
+	color: $medium-blue;
 }
 a {
-	color: #00A9E7;
+	color: $bright-blue;
 
 	&:visited {
-		color: #105068;
+		color: $medium-blue;
 	}
 }
 
 a.social_profiles__link {
-	color: #fff;
+	color: $white;
 
 	&:hover {
-		color: #d1d1d1;
+		color: $light-grey;
 	}
 }
 
@@ -221,8 +225,8 @@ a.social_profiles__link {
 input[type="submit"] {
 	display: block;
 	width: 100px;
-	background-color: #fff;
-	color: #19191B;
+	background-color: $white;
+	color: $almost-black;
 	border-right: none;
 	border-top: none;
 	border-left: none;
@@ -245,7 +249,7 @@ img.typekit-badge {
 .date {
 	text-align: left;
 	font-size: 18px;
-	color: #19191B;
+	color: $almost-black;
 	font-family: 'Avenir', sans-serif;
 
 }
@@ -261,7 +265,7 @@ img.typekit-badge {
 }
 
 .fa:hover {
-	color: #086CA2;
+	color: $medium-blue;
 }
 
 .fa-rebel {
@@ -290,18 +294,18 @@ label.inline {
 
 select {
 	font-family: 'Avenir', sans-serif;
-    color: #19191B;
+    color: $almost-black;
     font-size: 16px;
     line-height: 27px;
     border-radius: 3px;
-    border: 1px solid #ededed;
-    background-color: #ffffff;
+    border: 1px solid $light-grey;
+    background-color: $white;
     width: 85%;
 }
 input[type="text"]  {
 	width: 50px;
     font-family: 'Avenir', sans-serif;
-    color: #19191B;
+    color: $almost-black;
     font-size: 16px;
     line-height: 27px;
     border-radius: 3px;
@@ -310,14 +314,14 @@ input[type="text"]  {
 
 form {
 	padding: 20px;
-	border: 1px solid #ededed;
+	border: 1px solid $light-grey;
 	border-radius: 3px;
 	min-height: 450px;
 }
 
 div[type="submit"] {
 	background-color: #007536;
-	color: #fff;
+	color: $white;
 	border-radius: 4px;
 	border: 1px solid #007536;
 	width: 50%;
@@ -332,7 +336,7 @@ div[type="submit"]:hover {
 
 
 div[type="submit"] p {
-	color: #fff;
+	color: $white;
 	text-align: center;
 	font-family: 'Avenir', sans-serif;
 }
@@ -352,7 +356,7 @@ div[type="submit"] p {
 .multiplier {
 	margin-left: 10px;
 	margin-right: 10px;
-	font-family: 'Avenir', san-serif;
+	font-family: 'Avenir', sans-serif;
 }
 
 /* media queries start here */ 
