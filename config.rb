@@ -57,6 +57,10 @@ set :css_dir, 'css'
 set :js_dir, 'js'
 set :images_dir, 'img'
 
+activate :autoprefixer do |config|
+  config.browsers = ['last 2 versions', 'Explorer >= 9']
+end
+
 # ---------------------------
 # Blog
 # ---------------------------

@@ -1,9 +1,25 @@
 <% wrap_layout :layout do %>
 	<article>
+	<div class="article_header">
 		<h2><%= current_article.title %></h2>
 		<time class="date"><%= current_article.date.strftime('%e %B %Y')%></time>
+	</div>
 		<%= yield %>
 	</article>
-	<hr>
-	<%= link_to '&#8249 Back', '/blog', :class => 'back' %>
+	<div class="blog__nav">
+      <div class="col_right">
+        <% next_article = current_article.next_article %>
+          <% if next_article %>
+          <p><a href="<%= next_article.url %>" rel="next" title="Next article: <%= next_article.title %>"> <%= next_article.title %> &rarr; </a></p>
+          <% end %>
+      </div>
+      <div class="col_left">
+        <% prev_article = current_article.previous_article %>
+          <% if prev_article %>
+          <p>&larr; <a href="<%= prev_article.url %>" rel="prev" title="Previous article: <%= prev_article.title %>"> <%= prev_article.title %></a></p>
+          <% end %>
+      </div>
+      <div class="clearfix">
+      </div>
+    </div>
 <% end %>

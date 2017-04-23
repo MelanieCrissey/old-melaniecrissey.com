@@ -2,24 +2,17 @@
 title: Says Hi
 ---
 
-<p>Lives in the ‘burbs. Loves Atlanta startups. Works with <a href="https://fullstory.com">FullStory.</a><br/>
-Cares about user experience (UX) and customer experience (CX).</p>
+<p>Lives in the ‘burbs. Loves Atlanta startups. Works with <a href="https://fullstory.com">FullStory.</a>
+Cares about user experience (UX) and customer experience (CX).
+Also, writes blog posts.</p>
 
-<p>Blogs here.</p>
-
+<h2 class="home">Recent Posts</h2>
 <% blog.articles[0...3].each do |article| %>
-  <article>
-    <h1>
-      <a href="<%= article.url %>"><%= article.title %></a>
-    </h1>
-    <time class="date"><%= article.date.strftime('%e %B %Y') %></time>
-  </article>
-  <hr>
+  	<article class="summary">
+	  	<a href="<%= article.url %>" class="summary__link">
+		    <h3><%= article.title %></h3>
+		    <time class="date"><%= article.date.strftime('%e %B %Y') %></time>
+	    </a>
+  	</article>
 <% end %>
-
-<ul class="social_profiles">
-		<li><a href="https://twitter.com/MelanieCrissey"/></a>Twitter</li>
-		<li><a href="http://instagram.com/melaniecrissey"/>Instagram</a></li>
-		<li><a href="https://github.com/MelanieCrissey"/>Github</a></li>
-		<li><a href="https://www.linkedin.com/in/melaniecrissey"/>LinkedIn</a></li>
-</ul>
+<p><a href="/blog">See more posts...</a></p>

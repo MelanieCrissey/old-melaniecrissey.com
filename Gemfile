@@ -8,6 +8,7 @@ gem "middleman-core"
 gem "middleman-livereload", "~> 3.1.0"
 gem 'rack-contrib', '~> 1.1.0'
 gem 'builder'
+gem 'middleman-autoprefixer'
 
 # For faster file watcher updates on Windows:
 gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]

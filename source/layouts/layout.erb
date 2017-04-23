@@ -17,8 +17,9 @@
         <script src="/js/vendor/modernizr-2.6.1.min.js"></script>
         <script type="text/javascript" src="//use.typekit.net/kgb5tar.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-        <link rel="icon" type="image/ico" href="/favicon.ico"/>
+        <link rel="icon" type="image/ico" href="favicon.ico"/>
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
         <!-- Begin FullStory magic -->
         <script>
           window['_fs_debug'] = false;
@@ -44,29 +45,49 @@
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
         <![endif]-->
-        <div class="container">
-          <div id="header">
-            <a href="/"><h1>Melanie Crissey</h1></a>
-           </div>
-          <%= yield %>
-          <nav class="nav" role="navigation">
+        <div class="wrapper">
+          <div class="container">
+            <div id="header">
+              <h1><a href="/">Melanie Crissey</a></h1>
+             </div>
+            <%= yield %>
+          </div>
+        </div>
+        <footer id="footer">
+          <div class="container">
+            <h4>@MelanieCrissey</h4>
+            <ul class="social_profiles">
+                <li><a class="social_profiles__link" href="https://twitter.com/MelanieCrissey"/>Twitter</a></li>
+                <li><a class="social_profiles__link" href="http://instagram.com/melaniecrissey"/>Instagram</a></li>
+                <li><a class="social_profiles__link" href="https://github.com/MelanieCrissey"/>Github</a></li>
+                <li><a class="social_profiles__link" href="https://www.linkedin.com/in/melaniecrissey"/>LinkedIn</a></li>
+            </ul>
+            <nav class="nav" role="navigation">
             <ul>
+              <li class="<%= is_page_active('/') %>">
+                <%= link_to 'Home', '/' %> 
+              </li>
               <li class="<%= is_page_active('/blog/') %>">
                 <%= link_to 'Blog', '/blog' %> 
               </li>
               <li class="<%= is_page_active('/about/') %>">
                 <%= link_to 'About', '/about' %> 
               </li>
+              <li class="<%= is_page_active('/contact/') %>">
+                <%= link_to 'Contact', '/contact' %> 
+              </li>
+              <li>
+                <a class="love" href="/love"><i class="em em-two_hearts"></i></a>
+              </li>
             </ul>
           </nav>
-        </div>
-
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
-        <script src="/js/plugins.js"></script>
-        <script src="/js/main.js"></script>
-        <script src="/js/vendor/jquery-1.8.0.min.js"></script>
-        <script src="/js/form.js"></script>
+          </div>
+          <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+          <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
+          <script src="/js/plugins.js"></script>
+          <script src="/js/main.js"></script>
+          <script src="/js/vendor/jquery-1.8.0.min.js"></script>
+          <script src="/js/form.js"></script>
+        </footer>
     </body>
 </html>
