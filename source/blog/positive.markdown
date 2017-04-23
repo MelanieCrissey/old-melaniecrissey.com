@@ -10,7 +10,7 @@ Positive. Supportive. Self-starting. Where I work people are serious about embod
 
 **Supportive** has to be nurtured, but it’s natural. I’m a hyper-sensitive, empathetic person, and I’m also competitive. Once I realized that success isn’t a finite resource, my heart fell open to supporting other people. Now it’s reflexive.
 
-**Positive** is more complex. Accentuate the positive. Eliminate the negative. Express happiness and affirmation. [Project an image of success at all times.](http://youtu.be/bhbsCVAdiNY?t=56s).
+**Positive** is more complex. Accentuate the positive. Eliminate the negative. Express happiness and affirmation. [Project an image of success at all times](http://youtu.be/bhbsCVAdiNY?t=56s).
 
 <img src="/img/thumperrule.jpg"/>
 
