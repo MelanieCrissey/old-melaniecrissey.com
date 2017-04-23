@@ -191,6 +191,14 @@ ul.bullets {
 	list-style-type: disc;
 	color: #105068;
 }
+a {
+	color: #00A9E7;
+
+	&:visited {
+		color: #105068;
+	}
+}
+
 a.social_profiles__link {
 	color: #fff;
 
