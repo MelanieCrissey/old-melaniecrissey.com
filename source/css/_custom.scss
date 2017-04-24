@@ -115,7 +115,7 @@ a {
 ul {
 	color: $almost-black;
 	list-style-type: disc;
-	font-family: 'Avenir', sans-serif
+	font-family: 'Avenir', sans-serif;
 	}
 
 ul.social_profiles  li, ul.values_list li{
@@ -123,7 +123,7 @@ ul.social_profiles  li, ul.values_list li{
 }
 ul.bullets {
 	list-style-type: disc;
-	color: $medium-blue;
+	margin-left: 18px;
 }
 a {
 	color: $bright-blue;
