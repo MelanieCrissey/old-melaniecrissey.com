@@ -112,19 +112,19 @@ a {
 	}
 }
 
-ul {
+ul li{
 	color: $almost-black;
 	list-style-type: disc;
 	font-family: 'Avenir', sans-serif;
+	margin-left: 18px;
 	}
 
-ul.social_profiles  li, ul.values_list li{
+nav ul li, ul.social_profiles  li {
 	list-style-type: none;
+	margin-left: 0px;
+
 }
-ul.bullets {
-	list-style-type: disc;
-	margin-left: 18px;
-}
+
 a {
 	color: $bright-blue;
 
