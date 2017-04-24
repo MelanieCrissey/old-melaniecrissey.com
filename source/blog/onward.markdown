@@ -12,7 +12,7 @@ In no particular order, here's a partial list of things wonderful that have happ
 * Saw the team at [Rigor double revenue in less than 8 months](https://www.instagram.com/p/9JenbNyUdd/)
 * [Adopted a puppy](https://www.instagram.com/explore/tags/piperthehyperpupper/) (who has since officially reached 'spoiled doggo' status)
 * Ran my [first ever 5K](https://www.instagram.com/p/BC3IdUMyUdB/)
-* Overcame a number of personal struggles and tragedies
+* Overcame a number of personal struggles and minor tragedies
 * Practiced yoga for more than 152 hours
 * Published two short stories [reviewing the annual "box drop" in my hometown](https://medium.com/stay-shiny-marietta)
 * Joined the [U40 Kiwanis Club in Marietta](https://www.facebook.com/kiwanisu40marietta/)
