@@ -10,11 +10,11 @@ Wowza. It's been a minute.
 In no particular order, here's a partial list of things wonderful that have happened in my life since I last wrote a blog post here:
 
 * Saw the team at [Rigor double revenue in less than 8 months](https://www.instagram.com/p/9JenbNyUdd/)
-* [Adopted a puppy](https://www.instagram.com/explore/tags/piperthehyperpupper/) (who has since officially reached 'spoiled doggo' status)
+* [Adopted a puppy](https://www.instagram.com/explore/tags/piperthehyperpupper/) (who has since officially reached spoiled doggo status)
 * Ran my [first ever 5K](https://www.instagram.com/p/BC3IdUMyUdB/)
 * Overcame a number of personal struggles and minor tragedies
 * Practiced yoga for more than 152 hours
-* Published two short stories [reviewing the annual "box drop" in my hometown](https://medium.com/stay-shiny-marietta)
+* Published two short stories [reviewing the annual NYE box drop in my hometown](https://medium.com/stay-shiny-marietta)
 * Joined the [U40 Kiwanis Club in Marietta](https://www.facebook.com/kiwanisu40marietta/)
 * Helped organize more than 200 volunteers for a [historic home tour](http://www.mariettapilgrimage.com/)
 * Taught a crash course in web performance to a group of [WIT Girls](http://rigor.com/blog/2016/11/wit-girls)
