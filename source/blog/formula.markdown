@@ -23,7 +23,7 @@ I searched my inbox and found this:
 This email is spectacular because it:
 
 * **Anticipates customer needs.** The subject line echoes the question that I'm asking in my head, hitting a key point in my customer journey.
-* **Executes low-key personalization flawlessly.** I see my own name right away. It's nothing fancy, just a simple Intercom user variable, but it's working as designed. No %%valued_customer%% code hanging out, here.
+* **Executes low-key personalization flawlessly.** I see my own name right away. It's nothing fancy, just a simple [Intercom](https://docs.intercom.com/intercom-s-key-features-explained/sending-messages/personalizing-messages-using-variables) user variable, but it's working as designed. No %%valued_customer%% code hanging out, here.
 * **Sets expectations.** The copy states when I'll receive my next product, how I'll be billed, and what to do if I need to expedite things.
 * **Provides helpful information.** The flashlight trick they described _totally_ worked. When my new bottle came in the mail, I couldn't remember which one was the original bottle and which one was the new one. I sat them each on top of an iPhone flashlight and the old bottle had a faintly visible horizontal line in the middle, whereas the newer bottle did not. Magic!
 * **Ushers the customer forward with one, clear CTA.** This email offers me a single next step: log into my account via the "My Dashboard" button. There are no links to blog posts that could distract me out of the email before I finish reading it. There's not even a footer or a prompt to share something on social media. This email wants me to log into my account, which is exactly what I do next.
