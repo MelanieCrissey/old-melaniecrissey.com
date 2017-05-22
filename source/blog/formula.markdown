@@ -14,7 +14,7 @@ While I've yet to confirm whether Curology is working wonders for my skin — it
 
 About three weeks after signing up for their service and diligently applying the recommended two pumps each day, I was beginning to wonder, "Should I order more of this stuff?" 
 
-I searched my inbox for Curology and found this:
+I searched my inbox and found this:
 
 ![curology email](/img/Curology.png)
 
