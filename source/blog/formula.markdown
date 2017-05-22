@@ -10,7 +10,7 @@ tags: 76DaysofCX
 
 [Curology](https://curology.com/) sells subscription prescription skincare for the Instagram generation. They caught my attention with a pretty ad in my social media feed and won me over with their web app that worked so well on my phone, I forgot it wasn't native. And, I'm not the only one falling for the hype. A customer recently gave their product [a shoutout on Bustle's #myeverydayfive](https://www.bustle.com/p/18-people-share-the-5-beauty-products-they-use-every-single-day-51396), placing Curology alongside cult favorite beauty brands Benefit, Glossier, and NARS. 
 
-While I've yet to confirm whether Curology is working wonders for my skin — it's too soon to tell - I can confirm that their proactive, personalized customer marketing is on point. 
+While I've yet to confirm whether Curology is working wonders for my skin—it's too soon to tell—I can confirm that their proactive, personalized customer marketing is on point. 
 
 About three weeks after signing up for their service and diligently applying the recommended two pumps each day, I was beginning to wonder, "Should I order more of this stuff?" 
 
