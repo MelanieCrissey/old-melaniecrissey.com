@@ -6,7 +6,7 @@ tags: 76DaysofCX
 
 Warning: strong opinions ahead. 
 
-###If you're not going to do the work to make your website load faster, don't bother monitoring it for performance.
+###If you're not going to do the work to make your website faster, don't bother monitoring it for performance.
 
 Sure. Set up some basic availability alerts so that you can wake up in the middle of the night when your site goes down. Invest in some load testing, so you'll know your site can handle it when you finally go viral.
 
