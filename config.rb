@@ -39,7 +39,7 @@ page "feed.xml", :layout => false
 
 # Reload the browser automatically whenever files change
 configure :development do
-  activate :livereload
+  # activate :livereload
 end
 
 # Methods defined in the helpers block are available in templates
@@ -48,6 +48,9 @@ helpers do
     current_page.url == page ? "selected" : ''
   end
 end
+
+# Activate Sprockets
+# activate :sprockets
 
 # ---------------------------
 # Assets

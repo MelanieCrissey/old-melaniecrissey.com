@@ -9,6 +9,7 @@ gem "middleman-livereload", "~> 3.1.0"
 gem 'rack-contrib', '~> 1.1.0'
 gem 'builder'
 gem 'middleman-autoprefixer'
+gem 'middleman-sprockets'
 
 # For faster file watcher updates on Windows:
 gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
@@ -25,6 +26,3 @@ gem "middleman-deploy"
 # Utilities
 gem 'rake', '~> 10.3.2'
 gem "puma"
-
-#jQuery
-gem "jquery-middleman"
