@@ -85,15 +85,15 @@ Therefore, in my mind, FullStory had no competition. It provided the context and
 
 In the last 3 years since I first "hired FullStory" to do the job of keeping me close to my customers, the app has evolved to include an exciting array of new functionality. Today, powered by lightning-fast Google-like [OmniSearch](https://www.producthunt.com/posts/omnisearch-by-fullstory), FullStory can do jobs that I never would have considered. As someone operating in the marketing job family at FullStory, some of my new Job Stories look like this:
 
-* When I'm hosting a customers-only happy hour in a different state, I want to find a list of the most active users in that state so that I can invite them. 
+* When I'm hosting a customers-only happy hour in a different city, I want to find a list of the **most active users by city** so that I can invite them. 
 
 ![usersinCity](/img/usersinCity.png)
 
-* When I've sent an email announcement for a new feature, I want to see how many people engaged with that feature from the email announcement so that I can report on the success of our announcement campaign.
+* When I've sent an email announcement for a new feature, I want to see **how many people engaged with that feature from the email announcement** so that I can report on the success of our announcement campaign.
 
 ![announcement](/img/announcement.png)
 
-* When I launch a new landing page, I want to understand to most-clicked element so that I can make changes to increase conversions.
+* When I launch a new landing page, I want to understand the **most-clicked element** so that I can make changes to increase conversions.
 
 ![most clicked](/img/mostClicked.png)
 
