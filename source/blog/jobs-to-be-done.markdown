@@ -101,7 +101,7 @@ Today, FullStory helps me get fast answers to questions about customers and how 
 
 
 ##"To the future!"
-Looking back on the last few months, I'm feeling incredibly grateful for the opportunity and for my co-workers who keep teaching me new things every day. And, I can't wait to see what the future of FullStory holds. We have a lot of new jobs to do.
+Looking back on the last few months, I'm feeling incredibly grateful for the opportunity and for my co-workers who keep teaching me new things every day. I can't wait to see what the future of FullStory holds. We have a lot of new jobs to do.
 
 
 
