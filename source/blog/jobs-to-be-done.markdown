@@ -57,7 +57,7 @@ But, the invaluable thing about FullStory playback was how close it allowed me t
 
 ##User Stories and Job Stories
 
-Based on my positive experience with FullStory, I might make an educated guess that all people with a similar profile to me could have a similar, positive experience. I might use personas to imagine other people with profiles like mine. And, that persona might look like this:
+Based on my positive experience with FullStory, I might make an educated guess that all people with a similar profile to me could have a similar, positive experience. I might use personas to imagine other people with profiles like mine. That persona might look like this:
 
 ![Supporter Profile](/img/SuzySupporter.jpg)
 
@@ -96,6 +96,8 @@ In the last 3 years since I first "hired FullStory" to do the job of keeping me 
 * When I launch a new landing page, I want to understand to most-clicked element so that I can make changes to increase conversions.
 
 ![most clicked](/img/mostClicked.png)
+
+Today, FullStory helps me get fast answers to questions about customers and how they engage with content.
 
 
 ##"To the future!"
