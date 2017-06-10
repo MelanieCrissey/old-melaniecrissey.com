@@ -12,11 +12,11 @@ Lately, I've been trying to get a better understanding of the trial experience f
 
 ##My Experience as a FullStory Customer
 
-The first time I saw a demo of FullStory, it wasn't a demo at all. I sat in an office at Atlanta Tech Village, hunkered around a laptop with Rigor's CTO and one of FullStory's co-founders. The presentation was a slidedeck with some simple UI mocks and an embedded video.
+The first time I saw a demo of FullStory, it wasn't a demo at all. I sat in an office at Atlanta Tech Village, hunkered around a laptop with Rigor's CTO and one of FullStory's co-founders. The presentation was a slidedeck with some simple UI mocks and an embedded video. The conversation went something like...
 
-"Imagine if you could watch a video playback of how a user interacted with your app. Would this be helpful?"
+"Imagine if you could watch a video playback of how a user interacted with your app."
 
-"Absolutely."
+"I need this. I need this yesterday."
 
 See, prior to having FullStory, working tech support was a bit like feeling your way through a dark room. Someone could email or chat in with a totally valid question and no relevant details:
 
