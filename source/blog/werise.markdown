@@ -1,6 +1,6 @@
 ---
 title: Reflections on We RISE Conference
-date: 2017-06-25 20:00 UTC
+date: 2017-06-25 11:00 UTC
 tags: 
 ---
 
