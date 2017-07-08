@@ -82,7 +82,7 @@ If you can invite a team of people and post a message to them, then you can see 
 
 ##Pacing Discovery and Teaching in Onboarding
 
-As we consider onboarding and usbility in SaaS apps, we often try to teach _all_ the power moves upfront, because we're afraid that people won't discover that our app is a must-have tool.
+As we consider onboarding and usability in SaaS apps, we often try to teach _all_ the power moves upfront, because we're afraid that people won't discover that our app is a must-have tool.
 
 It's our job to figure out:
 
