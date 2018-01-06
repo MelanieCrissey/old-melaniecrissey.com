@@ -38,7 +38,7 @@ As in, "Thank you for writing in" or "Thank you for letting us know about this a
 
 As in, "You're right - that language in the UI _is_ confusing." 
 
-This is my favorite phrase to use, and I use it every chance that I can. Customers are so often correct. And, if a customer is describing their experience about anything, guess what? — _they're right._ Sure, sometimes there are some circumstances where we may feel we can provide a better solution that a customer's proposing. Or, we may have logs to show that something occurred differently than a customer remembers. Still, whenever you have a chance to agree with someone, do it.
+This is my favorite phrase to use, and I use it every chance that I can. Customers are so often correct. And, if a customer is describing their experience about anything, guess what? — _they're right._ Sure, sometimes there are some circumstances where we may feel we can provide a better solution than what a customer's proposing. Or, we may have logs to show that something occurred differently than a customer remembers. Still, whenever you have a chance to agree with someone, do it.
 
 ###"Happy"
 
