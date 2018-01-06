@@ -1,6 +1,6 @@
 ---
 title: "The Words We Type To Our Customers"
-date: 2018-01-06 5:00 UTC
+date: 2018-01-06 1:00 UTC
 tags: support
 ---
 
@@ -10,11 +10,17 @@ It was busy and I was clumsy.
 
 It had been a long time since I'd had to manage a support queue by myself, and I think my body had forgotten how to process the adrenaline of watching, reading, feeling, thinking, responding, writing, editing, triaging, and clearing.
 
-There's a sort of flow that you get into when you're managing the queue. You're constantly re-prioritizing based on the urgency of requests and how long a request has been sitting without a response. You have to judge quickly whether a case can be solved with one single, thoughtful answer, or if it'll require more information to resolve. You have to navigate quickly between resources across multiple channels: search the Help Desk, log into the app real quick, ask a quick question in Slack...
+There's a sort of flow that you get into when you're managing the queue. You're constantly re-prioritizing based on the urgency of requests and how long a request has been sitting without a response. You have to judge quickly whether a case can be solved with one single, thoughtful answer, or if it'll require more information to resolve. You have to navigate quickly between resources across multiple channels: search the Help Desk, ask a quick question in Slack, watch a short session in FullStory...
 
-And, when you're working support with a team of people (dedicated, all-hands, or some combination of these), the hardest thing to do, arguably, is to know when it's okay to walk away. You have to be able to trust your people to make sense of whatever state you left things. (Luckily, the [Huggers](https://blog.fullstory.com/empathy-at-scale-meet-fullstory-huggers/) that I work with make this part easy.)
+<img style="width: 300px;" src="/img/mean-bean-machine.gif"/>
+<br/>
+<sub>Anyone play this Sega game as a kid? Imagine this. But, with email.</sub>
 
-Having the chance to work directly with customers is a gift. 
+And, when you're working support with a team of people (dedicated, all-hands, or some combination of these), the hardest thing to do, arguably, is to know when it's okay to walk away. You have to be able to trust your people to make sense of whatever state you left things. 
+
+(Luckily, the [Huggers](https://blog.fullstory.com/empathy-at-scale-meet-fullstory-huggers/) that I work with make this part easy.)
+
+###Having the chance to work directly with customers is a gift. 
 
 Working support gives you a chance to learn your product through the eyes of your customer. The words that your customers use to ask questions or describe their needs send signals about the way that your product or service fits into their lives.
 
@@ -26,7 +32,7 @@ Here are some of the words most-typed to customers:
 
 ###"Thank you"
 
-As in, "Thank you for writing in" or "Thank you for letting us know about this awful bug" or "Thank you!" as a sign-off. It's important for me to express gratitude in each interaction with customers.
+As in, "Thank you for writing in" or "Thank you for letting us know about this awful bug" or "Thank you!" as a sign-off. Express gratitude in each interaction with a customer.
 
 ###"You're right"
 
@@ -44,17 +50,17 @@ Similar to "happy" but for more urgent situations. As in, "I'm eager to help" or
 
 ###"Helpful"
 
-As in, "The screencast video you sent me is super helpful" or "I can see how that feature you want would be helpful" or "Here's an article that might be helpful."
+As in, "The screencast video you sent me is super helpful" or "I can see how that feature would be helpful" or "Here's an article that might be helpful."
 
 ###"Share"
 
-As in, "Could you share some more information about how you'd use this feature?" or "Could you share some more details or logs?" or "I'll write back as soon as I have an update to share."
+As in, "Could you share some more information about how you'd use this feature?" or "Could you share some more details or logs with me?" or "I'll write back as soon as I have an update to share."
 
 ###"Ahead"
 
 As in, "I've gone ahead and made the update for you." 
 
-I love this one because it's always reducing work and moving things forward. There are lots of cases where you need to slow down and ask for permission before proceeding (#trust), but whenever you have the chance to go ahead and do something helpful, take it.
+I love this one because it's always reducing work and moving things forward. So often, we have to slow down and ask permission before we can take action. Sometimes this is essential for establishing trust or putting security first. But, when you have a chance to do something safe and helpful, don't hesitate. Go ahead.
 
 ###"Love"
 
@@ -65,3 +71,5 @@ It's funny — when I did a quick search through our Help Desk for the word "lov
 It's humbling to get to support a product that people love to use.
 
 If you have a product that you love, go ahead and write into their support queue or give them a shout on Twitter to let them know. Lawd knows we could all use a little more love this year. 
+
+![heartmails](/img/heartmails.jpg)
