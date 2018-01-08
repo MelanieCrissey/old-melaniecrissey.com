@@ -6,11 +6,15 @@ tags: support
 
 This week I had a chance to work the support queue for a few hours one morning. 
 
-It was busy and I was clumsy. 
+It was busy, and I was clumsy. 
 
 It had been a long time since I'd had to manage a support queue by myself, and I think my body had forgotten how to process the adrenaline of watching, reading, feeling, thinking, responding, writing, editing, triaging, and clearing.
 
-There's a sort of flow that you get into when you're managing the queue. You're constantly re-prioritizing based on the urgency of requests and how long a request has been sitting without a response. You have to judge quickly whether a case can be solved with one single, thoughtful answer, or if it'll require more information to resolve. You have to navigate quickly between resources across multiple channels: search the Help Desk, ask a quick question in Slack, watch a short session in FullStory...
+<img style="width: 100%;" src="/img/words-we-type-blank.jpg"/>
+
+There's a sort of flow that you get into when you're managing the queue. 
+
+You're constantly re-prioritizing based on the urgency of requests and how long a request has been sitting without a response. You have to judge quickly whether a case can be solved with one single, thoughtful answer, or if it'll require more information to resolve. You have to navigate quickly between resources across multiple channels: search the Help Desk, ask a quick question in Slack, [watch a short session in FullStory...](https://blog.fullstory.com/how-i-upped-my-support-game-with-fullstory/)
 
 <img style="width: 300px;" src="/img/mean-bean-machine.gif"/>
 <br/>
@@ -72,4 +76,4 @@ It's humbling to get to support a product that people love to use.
 
 If you have a product that you love, go ahead and write into their support queue or give them a shout on Twitter to let them know. Lawd knows we could all use a little more love this year. 
 
-![heartmails](/img/heartmails.jpg)
+
