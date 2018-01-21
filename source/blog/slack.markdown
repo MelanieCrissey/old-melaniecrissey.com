@@ -36,7 +36,7 @@ So, I set my push notifications on my phone to alert me if anyone messages me di
 
 I've enabled a 'Plink' sound for push notifications, but in real life I hardly ever hear that 'Plink' because my phone is almost always on silent.
 
-I treat my direct messages the same way that I'd make time for someone if they stopped by my desk at the office; I never mute or snooze my DMs.  
+Treat your direct messages the same way that you'd make time for someone if they stopped by your desk at the office; never mute or snooze your DMs.  
 
 ## Star mission-critical channels
 
@@ -92,7 +92,7 @@ I've got my Sidebar settings setup to show 'Everything' so that I can remember w
 
 ![img](/img/showEverything.png) 
 
-The key is that I also aggressively Mute channels where I don't need to participate in every conversation.
+The key is to aggressively Mute channels. Mute any channel where you don't need to actively participate in the conversations every day. They'll still be there for you later when you need them.
 
 ![img](/img/mute.png)
 
@@ -120,9 +120,9 @@ If I've got something that I need to share that feels a little too long for a Sl
 
 ---
 
-With these tricks combined, I stay Slack-happy. 
+With these tricks combined, I stay pretty Slack-happy. 
 
-Granted, settings and habits alone cannot keep someone from losing their mind. I recognize that there are additional factors helping me thrive in Slack:
+Granted, I know that settings and conventions alone cannot keep someone from losing their mind. I recognize that there are additional factors helping me thrive in Slack:
 
 1. **My work Gmail is for _external_ communications only.** One of the reasons that I'm able to focus in Slack is that I know that I don't have to check my work email very often. I use my email exclusively for communicating with clients and vendors, and I have all email notifications filtered to 'Skip the inbox' and organize into Labels. Because I know that most things in my inbox can wait at least an hour without needing a response, I don't have to actively monitor multiple channels throughout the day.
 
@@ -130,3 +130,4 @@ Granted, settings and habits alone cannot keep someone from losing their mind. I
 
 3. **I _really_ like to read and type.** I got my first AOL Instant Messenger account in fifth grade, and I've been blissfully avoiding phone calls ever since. I love digesting written words and would rather read a transcript than plug in headphones to watch a video. Because I genuinely enjoy and feel energized by reading, I'm probably a lot more comfortable in Slack than someone who communicates most best with a different medium. If the next generation of work collaboration tools ends up being something with a voice-user interface, I'll be up the creek without a paddle. 
 
+Still, I hope that some of the tips I've shared here will help someone feel more zen in Slack-land. 
