@@ -38,7 +38,7 @@ Then, talk to (or chat or text or email) each individual directly to:
 2. Provide some context for how you think the connection will be beneficial, and 
 3. Set expectations about next steps. 
 
-Sometimes one of the parties will have asked you directly for an introduction to the other; in that case, you really only need to directly communicate with the party who isn't aware of the other. Either way, **don't skip this step!** It's risky to hastily connect two strangers out of the blue! Be considerate, get consent, and make sure people know to lookout for the intro email in their inboxes.
+Sometimes one of the parties will have asked you directly for an introduction to the other; in that case, you really only need to directly communicate with the party who isn't aware of the other. Either way, **don't skip this step!** It's risky to hastily connect two strangers out of the blue! Be considerate, get consent, and make sure people know to look out for the intro email in their inboxes.
 
 Lastly, send the email. A couple of years ago my former CEO wrote an email introduction for me, and I've been copying his straightforward template ever since. It looks like this:
 
@@ -48,7 +48,7 @@ Lastly, send the email. A couple of years ago my former CEO wrote an email intro
 
 > Han, 
 
-> Writing to connect you with Lando. Lando's the Baron Administrator at the Cloud City, and he's a bonafide expert in smuggling. I think he might be able to help you avoid those Empirial entanglements you're concerned about.
+> Writing to connect you with Lando. Lando's the Baron Administrator at the Cloud City, and he's a bonafide expert in smuggling. I think he might be able to help you avoid those Impirial entanglements you're concerned about.
 
 > Lando,
 
