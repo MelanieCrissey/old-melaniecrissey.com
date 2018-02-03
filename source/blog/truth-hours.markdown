@@ -34,21 +34,21 @@ When I got done updating all those tracking params, I remembered that I had an o
 
 ## It's okay to work weird hours as long as you don't drag anyone else online with you.
 
-When we send active communications to colleagues (like tagging them with a notification or emailing them directly) outside of agreed-upon operating hours, we send signals that we value our own conveniences _above_ the personal lives of others. 
+When we send active communications to colleagues (like tagging them with a notification or emailing them directly) outside of agreed-upon operating hours, we send signals that we value our own conveniences above the personal lives of others. 
 
-When I email you on a Sunday night — because it's a convenient time for me and I don't want to forget about something — I put the burden on you to actively choose to ignore my email should you want to enjoy your time uninterrupted. 
+When I email you on a Sunday night — because it's a convenient time for me and I don't want to forget about something — I put the burden on you to actively choose to ignore my email, should you want to enjoy your time uninterrupted. 
 
-If you're in a position of authority over me, it might be quite easy for you to choose to ignore my message. Notifications = turned off. You'll get to it when you can. Simple as that. 
+If you're in a position of authority over me, it might be easy for you to choose to ignore my message. Notifications = turned off. You'll get to it when you can. Simple as that. 
 
-But, for people who are "on call" for emergencies, working on projects with peers, or reporting directly to authorities, the decision to choose to ignore alerts in favor of uninterrupted personal time can cause conflict and anxiety. You have to decide — can this wait until Monday morning? Even the answer is decidely 'Yes,' you might feel like that seen but oustanding question or task is looming over you until you can respond. This looming phenomenon can lower the quality of your uninterrupted time.
+But, for people who are "on call" for emergencies, working on projects with peers, or reporting directly to authorities, the decision to choose to ignore alerts in favor of uninterrupted personal time can cause conflict and anxiety. You have to watch and decide — can this wait until Monday morning? Even the answer is decidely 'Yes,' you might feel like that seen but oustanding question or task is looming over you until you can respond. This looming phenomenon can lower the quality of your time, even if you're choosing not to work.
 
 And, don't even get me started on the toxic nonsense that can happen when employees with competitive goals (think: a team of sales development reps competing for most activities or a team of support agents competing for most tickets closed) start seeing one or more colleages online at all hours.
 
-Or, the toxic nonsense that happens when a leader of a team is strictly requiring that direct reports to "get offline, go home" while they visibly churn away at their own work. (I _know_ that I've been guilty of this in the past. Ugh. So sorry. Mucho regrets.)
+Or, the toxic nonsense that happens when a leader of a team or project starts strictly requiring that direct reports "get offline, go home" while they visibly churn away at their own work. (I've definitely been guilty of this in the past. Ugh. So sorry. Mucho regrets.)
 
-The optics of working outside of agreed-upon hours is complicated! 
+The optics of working outside of agreed-upon hours are complicated! 
 
-Even if we're doing it for our own personal reasons and clearly _not_ expecting it from our peers or reports, it can set an unintended, subliminal expectation that everyone should be plugged in all the time. And, that kind of work-life fluidity isn't comfortable for everyone.
+Even if we're doing it for our own personal reasons and clearly _not_ expecting it from our peers or reports, being seen working weird hours can set an unintended, subliminal expectation that everyone should be plugged in all the time. And, that kind of work-life fluidity isn't comfortable for everyone.
 
 When I'm working outside of normal business hours, the truth is that one of two things has happened:
 
