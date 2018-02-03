@@ -59,8 +59,8 @@ Either way, it's up to me to manage my work and try to minimize the impact of my
 
 Here are a two basic tips to help:
 
-* Had an epiphany in the shower or during yoga and you just _have_ to get it out of your head before you forget? Create a calendar event as a reminder to follow up or complete the task during work-week hours.
-* Gotta crank through your email inbox? Use 'Send Later' from [Boomergang for Gmail](https://www.boomeranggmail.com/) to write your emails at a time that works for you but _send_ them later at a scheduled time when they'll be less interruptive for your recipients.
+* Had an epiphany in the shower or during yoga and you just _have_ to get it out of your head before you forget? **Create a calendar event as a reminder** to follow up or complete the task during work-week hours.
+* Gotta crank through your email inbox? **Use 'Send Later' from [Boomergang for Gmail](https://www.boomeranggmail.com/)** to write your emails at a time that works for you but _send_ them later at a scheduled time when they'll be less interruptive for your recipients.
 
 ![boomerang](/img/boomerangSendLater.png)
 
