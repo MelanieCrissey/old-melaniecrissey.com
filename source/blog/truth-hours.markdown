@@ -68,4 +68,4 @@ Now, if only we had 'Send later' for all the @'s on Slack, Chatter, and project 
 
 Until then, I'm going to be over here making mistakes and practicing with the hopes that over time my actions will match my intention for the respect of other people and their time. 
 
-And, if I've accidentally tagged you on a ticket at 10:00 PM on a Tuesday night, I'm so sorry. You hereby have permission to call me on my shit.
+And, if I've accidentally tagged you on a ticket at 10:00 PM on a Tuesday night, I'm so sorry. You hereby have permission to call me on my BS.
