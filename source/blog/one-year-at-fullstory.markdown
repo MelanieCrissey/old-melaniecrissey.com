@@ -1,6 +1,6 @@
 ---
 title: "One Year in at FullStory"
-date: 2018-02-13 2:30 UTC
+date: 2018-02-13 1:30 UTC
 tags: tech startups culture
 ---
 
