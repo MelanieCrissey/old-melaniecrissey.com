@@ -1,5 +1,5 @@
 ---
-title: My Favorite Little Hack Sharing CX Optimization Ideas
+title: My Favorite Little Hack for Sharing CX Optimization Ideas
 date: 2018-02-17 01:00 UTC
 tags: code, hacks, communication, design
 ---
