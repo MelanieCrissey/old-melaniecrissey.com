@@ -4,11 +4,11 @@ date: 2018-02-17 01:00 UTC
 tags: code, hacks, communication, design
 ---
 
-Optimizing a customer experience isn't always about building a new and beautiful feature from scratch. Sometimes, it means sweating the details and looking for ways to improve existing features that already exist. 
+Optimizing a customer experience isn't always about building a new and beautiful feature from scratch. Sometimes, it means sweating the details and looking for ways to improve existing features.
 
 Little things like tweaking some [microcopy](https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42) or giving more visual prominence to a specific call to action can drive measurable improvements to conversion rates and product adoption.
 
-And, if you're not the person who has the power and authority to design or develop those tweaks yourself, you're going to need a way to communicate your ideas for changes in a way that will let you:
+And, if you're not the person who has the power and authority to design or develop those tweaks yourself, you're going to need a way to communicate your ideas to:
 
 * Clearly present your proposal in context, and
 * Gather reactions and feedback quickly
@@ -35,17 +35,17 @@ For the purposes of this example, let's imagine that we're using FullStory to un
 
 ![KB Click Maps](/img/KBclickMaps.png)
 
-<sub>Wow! The Cookbook is the _eleventh_ most clicked thing on the page.</sub>
+<sub>Jeepers! The Cookbook is the _eleventh_ most clicked thing on the page.</sub>
 
 At this point, you might want to propose an experiment: could we move the Cookbook container further up the page and tweak the copy to make it more clear what the Cookbook is? What might that look like?
 
-### Control + Click > Inspect Element.
+### Control + Click > Inspect.
 
 ![Step One](/img/Step1InspectElement.png)
 
-With help.fullstory.com open in Google Chrome on a MacBook, you can hit **control + click** on your keyboard and then select **'Inspect Element'** to get at the source code behind the page. 
+With help.fullstory.com open in Google Chrome on a MacBook, you can hit **control + click** on your keyboard and then select **'Inspect'** to get at the source code behind the page. 
 
-(Note: if you're on a PC, it'll probably be more like right-click > 'Inspect Element.' )
+(Note: if you're on a PC, it'll probably be more like right-click > 'Inspect.')
 
 This is where the magic starts.
 
@@ -117,4 +117,4 @@ I developed this hacky little habit out of necessity at my first tech support jo
 
 We had an in-app wizard that I thought was out of whack. I wanted to submit some ideas to my UX team, and I knew that a bunch of written specifications in a JIRA ticket weren't gonna cut it. At the time, I imagined that a _real_ designer would probably use something like Photoshop to mock up their ideas, but I couldn't afford a license and I failed at convincing my COO that I needed a seat in the company Creative Cloud account. So, I started with 'Inspect Element' and put together an imperfect but effective visual artifact that helped spring open a conversation with the right folks.
 
-All this to say—if you have the skills, tools, time, or resources to create more perfect prototypes, absolutely do that! But, if you have an idea for a product or feature improvement that you want to share quickly, don't let a lack of access hold you back. Inspect Element and get crackin'.
+All this to say—if you have the skills, tools, time, or resources to create more perfect prototypes, absolutely do that! But, if you have an idea for a product or feature improvement that you want to share quickly, don't let a lack of access hold you back. Inspect element and get crackin'.
