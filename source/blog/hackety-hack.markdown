@@ -49,7 +49,7 @@ With help.fullstory.com open in Google Chrome on a MacBook, you can hit **contro
 
 This is where the magic starts.
 
-### Edit as HTML
+### Edit as HTML.
 
 Poke around in the source code (HTML) until you've found the div or container for the part of the page that you want to move.
 
@@ -83,7 +83,7 @@ Don't worry too much about making sure the CSS rules are the right ones; just us
 
 Looky there! Now you've got a quick and dirty mock up of what the Cookbook modal would look like if we moved it further up the page.
 
-### Keep Tinkering
+### Keep tinkering.
 
 Now that the modal is in the right position, you can edit the HTML again to update the copy (words) inside the container. 
 
@@ -93,7 +93,7 @@ Keep repeating the process of editing and tinkering until you've made all of the
 
 ![Step 8](/img/finalHack.png)
 
-### Screenshot It!
+### Screenshot it!
 
 Once you've got the page in your browser looking good enough to communicate the spirit of your idea, **snap a screenshot** (shift + command + 4, drag crosshairs, let go). Now you have a cheap mock up that you can share with other people. 
 
@@ -105,7 +105,7 @@ Someone might look at this mock and think, "Hmmm. Actually, I'm not loving the w
 
 The most important thing is that now you have something visual that represents the change you imagine might work. It's something concrete that helps you get the idea out of your head and in front of other people so you can generate reactions and more ideas. 
 
-### A Few Warnings About This Hack
+### But, don't do too much.
 
 Code in the browser can be fragile, and if it at any time you let the page reload, the HTML and CSS will reset, and you'll lose all your work. For this reason, I recommend only using this hack for visualizing small changes. 
 
