@@ -21,6 +21,7 @@ However, in reality, putting employees first often means that you’re putting y
 Imagine you’re the head of operations at a software company with 100 people. To celebrate a successful quarter, you’ve planned an all-day picnic in the park with balloon animals, novelty popsicles, and a celebrity guest speaker. You’ve organized free transportation for everyone to leave the office and enjoy the off-campus outing. 
 
 ![picnic](/img/pokepicnic.gif)
+<br/>
 <sub>Gotta get everybody in the company photo!</sub>
 
 You also have a stated policy that customer service is available from 9:00 AM - 6:00 PM, Monday through Friday. You have SLAs: one hour response time for support requests and 99.99% uptime of your application. 
