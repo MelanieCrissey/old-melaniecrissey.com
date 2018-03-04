@@ -17,6 +17,7 @@ I found myself with the opportunity to blissfully indulge myself in a moment wit
 I swept, vacuumed, and mopped. I vacuumed under sofa and chair cushions. 
 
 ![Cool thing I found under the sofa cushion](/img/richs.jpg)
+<br/>
 <sub>Found a [Rich's order card from 1965 under a chair cushion](https://www.instagram.com/p/Bfr4jHWAy4J/?taken-by=melaniecrissey). Pretty cool!</sub>
 <br/>
 
@@ -27,6 +28,7 @@ On Monday, when leaving for the groomer's, I realized that my car door suddenly 
 On Tuesday, I took a break from chores to walk to the elementary school in my neighborhood and judge a science fair. 
 
 ![science fair](/img/theFizz.jpg)
+<br/>
 <sub>This title. [I love it so much.](https://twitter.com/MelanieCrissey/status/968541196724424705)</sub>
 <br/>
 
