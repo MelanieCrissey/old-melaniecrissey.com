@@ -72,7 +72,7 @@ So, what's the answer?
 
 ##Here's One Thing That Helps
 
-When cultural leaders within an organiation—be they C-level execs, managers, or well-liked original gansters who have been with the company for awhile—visibly take time off, this gives employees and peers a sense of permission to do the same.
+When cultural leaders within an organization—be they C-level execs, managers, or well-liked original gansters who have been with the company for awhile—visibly take time off, this gives employees and peers a sense of permission to do the same.
 
 So, if you believe, [like I do](/blog/time-off/), that taking time off is work that needs to be done, lead by example.
 
