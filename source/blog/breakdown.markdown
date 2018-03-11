@@ -28,7 +28,7 @@ Instead, what I found was a kind, insightful, and accurate review of our onboard
 <br/>
 <sub>My emotions when I realized my company wasn't getting dragged.</sub>
 
-It was nice! I was relieved for myself and for my co-workers, too. I'm so grateful that our work was reviewed in a fair and thoughtful way. 
+It was nice! I was relieved for myself and for my co-workers, too. I'm grateful that our work was reviewed in a fair and thoughtful way. 
 
 It was also super valuable.
 
