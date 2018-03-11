@@ -20,7 +20,7 @@ And, when I do have an idea of something I want to make better, sometimes I can 
 
 Customer experience work (or user experience work) is critical work. It's easy to obsess over the edge cases: the templates that aren't rendering right, the triggers that aren't timed perfectly, or the glaring plot holes in the story we're telling to our customers.
 
-Because I walk around carrying a laundry list of "things to fix" in the back of my mind, I opened the article in my browser fulling expecting to get _torn a new one_ for everything that isn't impeccable.
+Because I walk around carrying a laundry list of "things to fix" in the back of my mind, I opened the article in my browser fully expecting to get _torn a new one_ for everything that isn't impeccable.
 
 Instead, what I found was a kind, insightful, and accurate review of our onboarding experience. 
 
