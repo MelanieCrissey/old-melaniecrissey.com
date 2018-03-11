@@ -16,6 +16,8 @@ And, that means that I spend a lot of time thinking about our onboarding experie
 
 And, because I spend a lot of time thinking about our onboarding experience, I spend most of my time thinking about how we could make it better.
 
+And, when I do have an idea of something I want to make better, sometimes I can make the changes myself but more often I have to rely on other people to help me turn my wishes into realities. And, I feel responsible for the results of our collaborative work together.
+
 Customer experience work (or user experience work) is critical work. It's easy to obsess over the edge cases: the templates that aren't rendering right, the triggers that aren't timed perfectly, or the glaring plot holes in the story we're telling to our customers.
 
 Because I walk around carrying a laundry list of "things to fix" in the back of my mind, I opened the article in my browser fulling expecting to get _torn a new one_ for everything that isn't impeccable.
@@ -26,7 +28,9 @@ Instead, what I found was a kind, insightful, and accurate review of our onboard
 <br/>
 <sub>My emotions when I realized my company wasn't getting dragged.</sub>
 
-It was nice! And super valuable.
+It was nice! I was relieved for myself and for my co-workers, too. I'm so grateful that our work was reviewed in a fair and thoughtful way. 
+
+It was also super valuable.
 
 ##Learning from Breakdowns
 
