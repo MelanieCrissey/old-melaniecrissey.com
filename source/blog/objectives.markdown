@@ -12,7 +12,7 @@ Whether you use KPIs or OKRs (or some combination of both!), regularly sharing o
 
 Previously in my career, the way that I measured success in my role was something like this:
 
-* Every quarter, I’d look at a company-wide One-page Strategic Plan for the quarter (it usually looked a lot like [this template](https://docs.google.com/document/d/1Qmdy6hRLV5yOSpZculmjh1YGVnBbvE9ARVFx31KsL6s/template/preview?usp=drive_web&ouid=%7BuserId%7D));
+* Every quarter, I’d look at a company-wide One-page Strategic Plan for the quarter (it usually looked a lot like [this template](https://docs.google.com/previewtemplate?id=1Qmdy6hRLV5yOSpZculmjh1YGVnBbvE9ARVFx31KsL6s&mode=public));
 * Next, I’d write my own One-page Strategic Plan for my department with a list of goals as they related to KPIs ([key performance indicators](https://en.wikipedia.org/wiki/Performance_indicator)) and I’d plan a short list of projects to complete;
 * Throughout the quarter, I’d pull my weekly numbers for KPIs and log them in a big company metrics spreadsheet that Leadership Team reviewed in a weekly meeting;
 * At the end of the quarter, I’d scramble to roll all my numbers up into a table of goals against the targets I’d set;
