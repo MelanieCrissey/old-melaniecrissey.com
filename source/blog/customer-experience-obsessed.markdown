@@ -160,6 +160,8 @@ Some companies have formal "voice of the customer" programs where people aggrega
 Compile your findings and present the problem as a customer experience bug to be fixed. Collaborate with colleagues or product managers to prioritize and design a solution. Once someone makes a change to resolve the problem, revisit your funnel (filtering for sessions that happened after the change) and look to see if the drop-off has closed at all.
 
 ![care bear stare](/img/careBeargif.gif)
+<br/>
+<sub>Live footage of you and your co-workers making customer experiences better together.</sub>
 
 Is your conversion rate higher?
 
